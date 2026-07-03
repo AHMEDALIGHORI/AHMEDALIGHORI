@@ -1,234 +1,120 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-motion.svg" alt="Ahmed Ali Ghori animated developer profile banner" width="100%" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:2C5364,100:00C9FF&text=Ahmed%20Ali%20Ghori&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Data%20Analyst%20%7C%20AI-Powered%20Web%20Builder&descAlignY=60&animation=fadeIn" />
+<p align="center">
+  <a href="https://github.com/AHMEDALIGHORI">
+    <img src="https://komarev.com/ghpvc/?username=AHMEDALIGHORI&style=for-the-badge&color=111111&labelColor=f6f6f0" alt="Profile views" />
+  </a>
+  <img src="https://img.shields.io/badge/Frontend-Developer-10100f?style=for-the-badge&labelColor=f6f6f0" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/Data-Analyst-ef4d2f?style=for-the-badge&labelColor=10100f" alt="Data Analyst" />
+  <img src="https://img.shields.io/badge/AI-Automation-d7ff3f?style=for-the-badge&labelColor=10100f&color=d7ff3f" alt="AI Automation" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=700&color=00C9FF&center=true&vCenter=true&width=900&lines=I+Build+Modern+Responsive+Websites;I+Create+Clean+Frontend+Interfaces;I+Turn+Data+Into+Useful+Insights;I+Am+Learning+AI+Agents+%26+Automation;Frontend+%2B+Data+%2B+AI+Is+My+Developer+Identity" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AHMEDALIGHORI&style=for-the-badge&color=00C9FF" />
-<img src="https://img.shields.io/badge/Focus-Frontend%20Development-00C9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Learning-AI%20Agents-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20To-Freelance%20Work-00C853?style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 About Me
-
-</div>
-
-Hi, I am **Ahmed Ali Ghori**, a developer focused on building **modern websites, clean user interfaces, data dashboards, and AI-powered digital products**.
-
-I am building my identity around:
-
-<div align="center">
-
-| 🎨 Frontend | 📊 Data | 🤖 AI |
-|---|---|---|
-| Clean UI | Dashboards | AI Tools |
-| Responsive Layouts | Reports | Automation |
-| React Interfaces | Insights | Chatbots |
-| Modern Websites | Data Cleaning | AI Agents |
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=2400&pause=700&color=10100F&center=true&vCenter=true&width=900&lines=I+craft+responsive+web+interfaces.;I+turn+data+into+clear+decisions.;I+build+AI-powered+digital+workflows.;Frontend+%2B+Data+%2B+AI+is+my+lane." alt="Animated typing introduction" />
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">About Ahmed</h2>
 
-## ⚡ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,python,firebase,git,github,vscode" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🧠 My Skill Identity
-
-</div>
-
-<div align="center">
+<p align="center">
+  I am <b>Ahmed Ali Ghori</b>, a frontend developer and data analyst focused on building clean interfaces, useful dashboards, and AI-assisted digital products. I like work that feels sharp on the surface and practical underneath.
+</p>
 
 <table>
-<tr>
-<td align="center" width="33%">
-
-### Frontend Development
-
-HTML  
-CSS  
-JavaScript  
-React.js  
-Next.js  
-Tailwind CSS  
-Firebase  
-
-</td>
-<td align="center" width="33%">
-
-### Data Analysis
-
-Python  
-Excel  
-Data Cleaning  
-Dashboards  
-Reports  
-Business Insights  
-Visualization  
-
-</td>
-<td align="center" width="33%">
-
-### AI & Automation
-
-ChatGPT  
-AI Agents  
-Prompt Engineering  
-Automation  
-RAG Concepts  
-LangChain Learning  
-Smart Workflows  
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" align="center">
+      <h3>Frontend</h3>
+      <p>Responsive layouts<br/>Landing pages<br/>React interfaces<br/>Modern UI systems</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>Data</h3>
+      <p>Dashboards<br/>Reports<br/>Data cleaning<br/>Business insights</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>AI</h3>
+      <p>AI assistants<br/>Automation flows<br/>Prompt systems<br/>Smart workflows</p>
+    </td>
+  </tr>
 </table>
 
-</div>
+---
+
+<h2 align="center">Premium Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,python,firebase,git,github,vscode&perline=13" alt="Tech stack icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-10100f?style=flat-square&logo=html5&logoColor=ef4d2f" />
+  <img src="https://img.shields.io/badge/CSS3-10100f?style=flat-square&logo=css3&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/JavaScript-10100f?style=flat-square&logo=javascript&logoColor=d7ff3f" />
+  <img src="https://img.shields.io/badge/React-10100f?style=flat-square&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Python-10100f?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Firebase-10100f?style=flat-square&logo=firebase&logoColor=ffca28" />
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">What I Build</h2>
 
-## 🌟 Featured Projects
-
-</div>
-
-<div align="center">
-
-| Project | Description | Tech |
-|---|---|---|
-| **Noor-AL-Huda** | Clean responsive web project with structured frontend code | HTML, CSS, JavaScript |
-| **Frontend Portfolio** | Modern personal portfolio for freelance/client work | React, Tailwind |
-| **Data Dashboard** | Data analysis and reporting dashboard concept | Python, Excel |
-| **AI Assistant Project** | AI-powered chatbot and automation learning project | AI Tools, LangChain |
-
-</div>
+| Focus | Output | Style |
+| --- | --- | --- |
+| Frontend websites | Portfolios, landing pages, business sites | Responsive, clean, polished |
+| Dashboards | Reports, admin views, analytics UI | Structured, readable, useful |
+| AI workflows | Chatbots, automations, assistants | Practical, fast, human-friendly |
+| Client projects | Web presence and digital tools | Premium feel, simple handoff |
 
 ---
 
-<div align="center">
+<h2 align="center">Featured Direction</h2>
 
-## 📊 GitHub Analytics
+<p align="center">
+  <a href="https://github.com/AHMEDALIGHORI/fuel-studio-animated-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AHMEDALIGHORI&repo=fuel-studio-animated-portfolio&theme=graywhite&hide_border=true" alt="Fuel Studio animated portfolio pinned card" />
+  </a>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AHMEDALIGHORI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AHMEDALIGHORI&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMEDALIGHORI&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <b>Latest build:</b> an animated agency portfolio with a loader intro, scroll reveals, parallax imagery, hover previews, FAQ interaction, and animated counters.
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">GitHub Analytics</h2>
 
-## 📈 Contribution Graph
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AHMEDALIGHORI&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github&title_color=10100f&text_color=6d6d65&icon_color=ef4d2f" alt="Ahmed Ali Ghori GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AHMEDALIGHORI&theme=default&hide_border=true&ring=ef4d2f&fire=ef4d2f&currStreakLabel=10100f" alt="GitHub streak stats" />
+</p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHMEDALIGHORI&theme=react-dark&hide_border=true&area=true" />
+<p align="center">
+  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMEDALIGHORI&layout=compact&theme=graywhite&hide_border=true&title_color=10100f&text_color=6d6d65" alt="Top languages" />
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=AHMEDALIGHORI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHMEDALIGHORI&bg_color=f6f6f0&color=10100f&line=ef4d2f&point=10100f&area=true&area_color=d7ff3f&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">Connect</h2>
 
-## 💼 What I Can Build
+<p align="center">
+  <a href="https://github.com/AHMEDALIGHORI">
+    <img src="https://img.shields.io/badge/GitHub-AHMEDALIGHORI-10100f?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-ali-ghori-85a24b338">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Ali%20Ghori-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ahmedalighori92@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-### Websites  
-Landing pages  
-Business websites  
-Portfolio websites  
-Responsive UI  
-
-</td>
-<td align="center">
-
-### Dashboards  
-Admin dashboards  
-Data reports  
-Business insights  
-Analytics UI  
-
-</td>
-<td align="center">
-
-### AI Projects  
-AI chatbots  
-Automation tools  
-AI assistants  
-Smart workflows  
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌍 Connect With Me
-
-<a href="https://github.com/AHMEDALIGHORI">
-  <img src="https://img.shields.io/badge/GitHub-AHMEDALIGHORI-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/ahmed-ali-ghori-85a24b338">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:ahmedalighori92@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## ✨ My Developer Mission
-
-### Clean Code • Smart Data • AI-Powered Future
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C9FF,50:8A2BE2,100:0F2027&section=footer" />
-
-</div>
+<p align="center">
+  <img src="./assets/footer-motion.svg" alt="Animated footer divider" width="100%" />
+</p>

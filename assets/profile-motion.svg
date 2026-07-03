@@ -1,0 +1,176 @@
+<svg width="1280" height="520" viewBox="0 0 1280 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmed Ali Ghori premium animated GitHub profile header</title>
+  <desc id="desc">A premium animated profile banner for Ahmed Ali Ghori, frontend developer and data analyst.</desc>
+  <style>
+    :root {
+      --bg: #f6f6f0;
+      --ink: #10100f;
+      --muted: #6d6d65;
+      --line: #d8d8ce;
+      --accent: #ef4d2f;
+      --acid: #d7ff3f;
+      --cyan: #62d4e7;
+    }
+
+    .bg { fill: var(--bg); }
+    .ink { fill: var(--ink); }
+    .muted { fill: var(--muted); }
+    .line { stroke: var(--line); stroke-width: 1; }
+    .accent { fill: var(--accent); }
+    .acid { fill: var(--acid); }
+    .cyan { fill: var(--cyan); }
+
+    .label {
+      font-family: Inter, Arial, sans-serif;
+      font-size: 15px;
+      font-weight: 800;
+      letter-spacing: 1.4px;
+      text-transform: uppercase;
+    }
+
+    .small {
+      font-family: Inter, Arial, sans-serif;
+      font-size: 13px;
+      font-weight: 800;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+
+    .hero {
+      font-family: Inter, Arial Black, Arial, sans-serif;
+      font-size: 96px;
+      font-weight: 950;
+      letter-spacing: -2px;
+    }
+
+    .signature {
+      font-family: Inter, Arial Black, Arial, sans-serif;
+      font-size: 164px;
+      font-weight: 950;
+      letter-spacing: -5px;
+    }
+
+    #gridGlow { animation: glow 4s ease-in-out infinite; }
+    #orbitOne { animation: orbit 9s linear infinite; transform-origin: 1010px 248px; }
+    #orbitTwo { animation: orbit 12s linear reverse infinite; transform-origin: 1010px 248px; }
+    #heroA { animation: reveal 5.8s cubic-bezier(.16,1,.3,1) infinite; }
+    #heroB { animation: reveal 5.8s cubic-bezier(.16,1,.3,1) .16s infinite; }
+    #heroC { animation: reveal 5.8s cubic-bezier(.16,1,.3,1) .32s infinite; }
+    #codeCard { animation: float 4.8s ease-in-out infinite; transform-origin: 250px 304px; }
+    #dataCard { animation: float 5.4s ease-in-out .5s infinite; transform-origin: 402px 178px; }
+    #aiCard { animation: float 5s ease-in-out .9s infinite; transform-origin: 178px 156px; }
+    #pulse { animation: pulse 2s ease-in-out infinite; transform-origin: 116px 76px; }
+    #progress { animation: progress 3.2s cubic-bezier(.76,0,.24,1) infinite; transform-origin: 726px 436px; }
+    #ticker { animation: ticker 10s linear infinite; }
+
+    @keyframes glow {
+      0%, 100% { opacity: .18; }
+      50% { opacity: .42; }
+    }
+
+    @keyframes orbit {
+      to { transform: rotate(360deg); }
+    }
+
+    @keyframes reveal {
+      0% { transform: translateY(88px); opacity: 0; }
+      12%, 68% { transform: translateY(0); opacity: 1; }
+      86%, 100% { transform: translateY(-48px); opacity: 0; }
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0) rotate(-.5deg); }
+      50% { transform: translateY(-16px) rotate(.7deg); }
+    }
+
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.4); opacity: .55; }
+    }
+
+    @keyframes progress {
+      0% { transform: scaleX(0); }
+      45%, 68% { transform: scaleX(1); }
+      100% { transform: scaleX(0); transform-origin: 1120px 436px; }
+    }
+
+    @keyframes ticker {
+      from { transform: translateX(0); }
+      to { transform: translateX(-420px); }
+    }
+  </style>
+
+  <rect width="1280" height="520" rx="24" class="bg"/>
+  <path class="line" d="M0 122.5H1280M0 398.5H1280M320.5 0V520M640.5 0V520M960.5 0V520"/>
+  <rect id="gridGlow" x="0" y="0" width="1280" height="520" fill="url(#glowPaint)"/>
+
+  <rect x="34" y="34" width="1212" height="82" rx="10" fill="#fbfbf7" stroke="#d8d8ce"/>
+  <circle cx="76" cy="75" r="25" class="ink"/>
+  <text x="66" y="82" class="label" fill="#f6f6f0">A</text>
+  <circle id="pulse" cx="116" cy="75" r="5" class="accent"/>
+  <text x="136" y="80" class="label ink">Ahmed Ali Ghori</text>
+  <text x="692" y="80" class="small muted">Frontend / Data / AI</text>
+  <text x="978" y="80" class="small ink">Premium GitHub profile</text>
+
+  <g id="aiCard">
+    <rect x="64" y="158" width="226" height="112" rx="10" fill="#10100f"/>
+    <text x="86" y="196" class="label" fill="#f6f6f0">AI Workflow</text>
+    <text x="86" y="224" class="small" fill="#d7ff3f">Prompt systems</text>
+    <text x="86" y="246" class="small" fill="#d7ff3f">Automation</text>
+  </g>
+
+  <g id="dataCard">
+    <rect x="338" y="140" width="228" height="126" rx="10" fill="#d7ff3f"/>
+    <text x="362" y="180" class="label ink">Data Insight</text>
+    <rect x="364" y="206" width="34" height="34" rx="4" fill="#10100f"/>
+    <rect x="412" y="190" width="34" height="50" rx="4" fill="#ef4d2f"/>
+    <rect x="460" y="174" width="34" height="66" rx="4" fill="#10100f"/>
+  </g>
+
+  <g id="codeCard">
+    <rect x="96" y="304" width="420" height="116" rx="10" fill="#fbfbf7" stroke="#10100f" stroke-width="2"/>
+    <text x="124" y="344" class="label ink">&lt;frontend /&gt;</text>
+    <text x="124" y="374" class="small muted">responsive interfaces</text>
+    <text x="124" y="398" class="small muted">clean component structure</text>
+    <circle cx="474" cy="346" r="15" class="accent"/>
+    <circle cx="434" cy="382" r="15" class="cyan"/>
+    <circle cx="474" cy="382" r="15" class="acid"/>
+  </g>
+
+  <g transform="translate(610 168)">
+    <clipPath id="headlineClip">
+      <rect x="0" y="0" width="620" height="248" rx="0"/>
+    </clipPath>
+    <g clip-path="url(#headlineClip)">
+      <text id="heroA" x="0" y="74" class="hero ink">BUILD CLEAN UI.</text>
+      <text id="heroB" x="0" y="154" class="hero ink">READ SMART DATA.</text>
+      <text id="heroC" x="0" y="234" class="hero ink">SHIP WITH AI.</text>
+    </g>
+  </g>
+
+  <g id="orbitOne">
+    <ellipse cx="1010" cy="248" rx="180" ry="72" stroke="#ef4d2f" stroke-width="3" opacity=".8"/>
+  </g>
+  <g id="orbitTwo">
+    <ellipse cx="1010" cy="248" rx="136" ry="54" stroke="#10100f" stroke-width="2" opacity=".45"/>
+  </g>
+  <circle cx="1178" cy="248" r="9" class="accent"/>
+  <circle cx="890" cy="248" r="7" class="acid"/>
+
+  <rect x="726" y="435" width="394" height="3" fill="#d8d8ce"/>
+  <rect id="progress" x="726" y="435" width="394" height="3" class="accent"/>
+  <text x="726" y="466" class="small muted">Portfolio energy</text>
+  <text x="924" y="466" class="small muted">Motion-first README</text>
+
+  <g transform="translate(0 506)">
+    <text id="ticker" x="0" y="0" class="signature" fill="#10100f" opacity=".08">FRONTEND DATA AI AUTOMATION FRONTEND DATA AI AUTOMATION</text>
+  </g>
+
+  <defs>
+    <radialGradient id="glowPaint" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1034 254) rotate(138) scale(542 294)">
+      <stop stop-color="#d7ff3f"/>
+      <stop offset=".42" stop-color="#62d4e7" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#f6f6f0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
