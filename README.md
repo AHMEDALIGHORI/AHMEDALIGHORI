@@ -2,89 +2,68 @@
   <img src="./assets/profile-motion.svg" alt="Ahmed Ali Ghori animated developer profile banner" width="100%" />
 </p>
 
+<h1 align="center">Ahmed Ali Ghori</h1>
+
+<p align="center">
+  Frontend developer building animated websites, AI tools, and data dashboards.
+</p>
+
 <p align="center">
   <a href="https://github.com/AHMEDALIGHORI">
     <img src="https://komarev.com/ghpvc/?username=AHMEDALIGHORI&style=for-the-badge&color=111111&labelColor=f6f6f0" alt="Profile views" />
   </a>
-  <img src="https://img.shields.io/badge/Frontend-Developer-10100f?style=for-the-badge&labelColor=f6f6f0" alt="Frontend Developer" />
-  <img src="https://img.shields.io/badge/Data-Analyst-ef4d2f?style=for-the-badge&labelColor=10100f" alt="Data Analyst" />
-  <img src="https://img.shields.io/badge/AI-Automation-d7ff3f?style=for-the-badge&labelColor=10100f&color=d7ff3f" alt="AI Automation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=2400&pause=700&color=10100F&center=true&vCenter=true&width=900&lines=I+craft+responsive+web+interfaces.;I+turn+data+into+clear+decisions.;I+build+AI-powered+digital+workflows.;Frontend+%2B+Data+%2B+AI+is+my+lane." alt="Animated typing introduction" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vite%20%7C%20Tailwind-10100f?style=for-the-badge" alt="Frontend stack" />
+  <img src="https://img.shields.io/badge/AI-Python%20%7C%20RAG%20%7C%20Automation-ef4d2f?style=for-the-badge" alt="AI stack" />
+  <img src="https://img.shields.io/badge/Data-Dashboards%20%7C%20Reports-d7ff3f?style=for-the-badge&labelColor=10100f&color=d7ff3f" alt="Data stack" />
 </p>
 
 ---
 
-<h2 align="center">About Ahmed</h2>
+## What I Build
 
-<p align="center">
-  I am <b>Ahmed Ali Ghori</b>, a frontend developer and data analyst focused on building clean interfaces, useful dashboards, and AI-assisted digital products. I like work that feels sharp on the surface and practical underneath.
-</p>
+I build polished web experiences with a practical product mindset: responsive layouts, smooth motion, clear UI systems, and useful AI/data workflows.
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>Frontend</h3>
-      <p>Responsive layouts<br/>Landing pages<br/>React interfaces<br/>Modern UI systems</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>Data</h3>
-      <p>Dashboards<br/>Reports<br/>Data cleaning<br/>Business insights</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>AI</h3>
-      <p>AI assistants<br/>Automation flows<br/>Prompt systems<br/>Smart workflows</p>
-    </td>
-  </tr>
-</table>
+| Focus | What I ship |
+| --- | --- |
+| Frontend websites | Landing pages, portfolios, restaurant sites, ecommerce concepts, interactive showcases |
+| AI tools | Chatbot interfaces, RAG prototypes, computer vision apps, automation workflows |
+| Data products | Dashboards, reports, insight panels, structured analysis interfaces |
+| Product demos | Vercel-ready prototypes with clean README docs and local run steps |
 
----
+## Featured Projects
 
-<h2 align="center">Premium Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,python,firebase,git,github,vscode&perline=13" alt="Tech stack icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-10100f?style=flat-square&logo=html5&logoColor=ef4d2f" />
-  <img src="https://img.shields.io/badge/CSS3-10100f?style=flat-square&logo=css3&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/JavaScript-10100f?style=flat-square&logo=javascript&logoColor=d7ff3f" />
-  <img src="https://img.shields.io/badge/React-10100f?style=flat-square&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/Python-10100f?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Firebase-10100f?style=flat-square&logo=firebase&logoColor=ffca28" />
-</p>
-
----
-
-<h2 align="center">What I Build</h2>
-
-| Focus | Output | Style |
+| Project | What it shows | Stack |
 | --- | --- | --- |
-| Frontend websites | Portfolios, landing pages, business sites | Responsive, clean, polished |
-| Dashboards | Reports, admin views, analytics UI | Structured, readable, useful |
-| AI workflows | Chatbots, automations, assistants | Practical, fast, human-friendly |
-| Client projects | Web presence and digital tools | Premium feel, simple handoff |
+| [Qitchen Animated Restaurant Website](https://github.com/AHMEDALIGHORI/qitchen-animated-restaurant-website) | Cinematic sushi restaurant site with responsive pages, generated food imagery, and CSS motion | HTML, CSS, JavaScript |
+| [NeuralMint](https://github.com/AHMEDALIGHORI/NeuralMint) | Decentralized AI marketplace with wallet flows, smart contracts, API services, and AI inference | React, Node, Solidity, Python |
+| [MindScope Emotion Screen Detection RAG](https://github.com/AHMEDALIGHORI/mindscope-emotion-screen-detection-rag) | Emotion-screening prototype with OpenCV cues, model ensemble, and local RAG recommendations | React, Flask, Python, ML |
+| [VisionAI Pro](https://github.com/AHMEDALIGHORI/VisionAi-) | Real-time computer vision system for product recognition, gestures, and sign-language experiments | Python, OpenCV, MediaPipe, YOLOv8 |
+| [Noor Al-Huda](https://github.com/AHMEDALIGHORI/Noor-AL-Huda) | Islamic knowledge platform with stories, Quran science pages, and AI chat flows | React, TypeScript, Firebase, Gemini |
+| [Ahmed Ali Portfolio](https://github.com/AHMEDALIGHORI/ahmed-ali-portfolio) | Dark motion portfolio with video hero, GSAP scroll effects, and responsive sections | React, TypeScript, Vite, Tailwind |
 
----
-
-<h2 align="center">Featured Direction</h2>
-
-<p align="center">
-  <a href="https://github.com/AHMEDALIGHORI/fuel-studio-animated-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AHMEDALIGHORI&repo=fuel-studio-animated-portfolio&theme=graywhite&hide_border=true" alt="Fuel Studio animated portfolio pinned card" />
-  </a>
-</p>
+## Tech Stack
 
 <p align="center">
-  <b>Latest build:</b> an animated agency portfolio with a loader intro, scroll reveals, parallax imagery, hover previews, FAQ interaction, and animated counters.
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,python,firebase,git,github,vscode&perline=14" alt="Tech stack icons" />
 </p>
 
----
+| Area | Tools |
+| --- | --- |
+| Frontend | HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS |
+| Motion/UI | GSAP, Framer Motion, responsive grids, animation systems, interactive components |
+| Backend/Data | Node.js, Express, Firebase, Python, Flask, dashboards, reporting flows |
+| AI | Prompt engineering, RAG concepts, OpenCV, MediaPipe, model-backed prototypes |
+| Deployment | Vercel, GitHub, static hosting, project documentation |
 
-<h2 align="center">GitHub Analytics</h2>
+## Current Direction
+
+I am focused on turning my repos into finished public case studies: clear screenshots, live demos, setup instructions, useful descriptions, and searchable topics. The goal is simple: every project should answer three questions quickly.
+
+- What does it do?
+- Why is it useful?
+- How can someone run or learn from it?
+
+## GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AHMEDALIGHORI&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github&title_color=10100f&text_color=6d6d65&icon_color=ef4d2f" alt="Ahmed Ali Ghori GitHub stats" />
@@ -95,13 +74,7 @@
   <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMEDALIGHORI&layout=compact&theme=graywhite&hide_border=true&title_color=10100f&text_color=6d6d65" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHMEDALIGHORI&bg_color=f6f6f0&color=10100f&line=ef4d2f&point=10100f&area=true&area_color=d7ff3f&hide_border=true" alt="GitHub contribution activity graph" />
-</p>
-
----
-
-<h2 align="center">Connect</h2>
+## Connect
 
 <p align="center">
   <a href="https://github.com/AHMEDALIGHORI">
@@ -111,7 +84,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Ali%20Ghori-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:ahmedalighori92@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
