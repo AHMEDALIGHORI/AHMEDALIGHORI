@@ -1,37 +1,25 @@
-<svg width="1280" height="150" viewBox="0 0 1280 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Animated footer divider</title>
-  <desc id="desc">A clean animated footer divider for the profile README.</desc>
-  <style>
-    .bg { fill: #10100f; }
-    .label {
-      font-family: Inter, Arial, sans-serif;
-      font-size: 18px;
-      font-weight: 900;
-      letter-spacing: 1.6px;
-      text-transform: uppercase;
-    }
-    #bar {
-      transform-origin: 88px 102px;
-      animation: load 3.2s cubic-bezier(.76,0,.24,1) infinite;
-    }
-    #ticker {
-      animation: ticker 8s linear infinite;
-    }
-    @keyframes load {
-      0% { transform: scaleX(0); }
-      50%, 70% { transform: scaleX(1); }
-      100% { transform: scaleX(0); transform-origin: 1192px 102px; }
-    }
-    @keyframes ticker {
-      from { transform: translateX(0); }
-      to { transform: translateX(-410px); }
-    }
-  </style>
-  <rect width="1280" height="150" rx="20" class="bg"/>
-  <text x="88" y="62" class="label" fill="#f6f6f0">Clean code. Smart data. AI-powered future.</text>
-  <rect x="88" y="101" width="1104" height="3" fill="#363632"/>
-  <rect id="bar" x="88" y="101" width="1104" height="3" fill="#d7ff3f"/>
-  <g transform="translate(0 142)">
-    <text id="ticker" x="0" y="0" class="label" fill="#f6f6f0" opacity=".16">FRONTEND DEVELOPMENT DATA ANALYSIS AI AUTOMATION PREMIUM WEB EXPERIENCES FRONTEND DEVELOPMENT DATA ANALYSIS AI AUTOMATION</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" role="img" aria-label="Animated footer divider">
+  <defs>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10100f" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#ef4d2f"/>
+      <stop offset="50%" stop-color="#d7ff3f"/>
+      <stop offset="80%" stop-color="#ef4d2f"/>
+      <stop offset="100%" stop-color="#10100f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="80" fill="none"/>
+  <line x1="0" y1="40" x2="1200" y2="40" stroke="url(#line)" stroke-width="2">
+    <animate attributeName="stroke-width" values="2;3;2" dur="3s" repeatCount="indefinite"/>
+  </line>
+  <circle cx="600" cy="40" r="5" fill="#d7ff3f">
+    <animate attributeName="r" values="4;7;4" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="520" cy="40" r="2" fill="#ef4d2f" opacity="0.8">
+    <animate attributeName="cx" values="480;560;480" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="680" cy="40" r="2" fill="#ef4d2f" opacity="0.8">
+    <animate attributeName="cx" values="720;640;720" dur="4s" repeatCount="indefinite"/>
+  </circle>
 </svg>
