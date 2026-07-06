@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-motion.svg" alt="Ahmed Ali Ghori animated 3D developer profile banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/AHMEDALIGHORI/AHMEDALIGHORI/main/assets/profile-motion.svg" alt="Ahmed Ali Ghori animated 3D developer profile banner" width="100%" />
 </p>
 
 <h1 align="center">Ahmed Ali Ghori</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=900&center=true&vCenter=true&width=720&lines=Three.js+%2B+React+Three+Fiber+portfolios;WebGL+landing+pages+%26+scroll+experiences;AI+%2C+computer+vision+%26+RAG+prototypes;Hyderabad%2C+Pakistan+%7C+Open+to+collaboration" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=900&center=true&vCenter=true&width=720&lines=Three.js+%2B+React+Three+Fiber+portfolios;WebGL+landing+pages+%26+scroll+experiences;AI+%2C+computer+vision+%26+RAG+prototypes;Hyderabad%2C+Pakistan+%7C+Open+to+collaboration" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -38,10 +38,10 @@ I build polished web experiences with a practical product mindset: responsive la
 
 ---
 
-## 3D Contribution Graph
+## GitHub Profile Overview
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/profile/AHMEDALIGHORI?d=6&theme=nothrow_is_wtf&noBg=false&noFrame=false" width="100%" alt="3D GitHub contribution graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AHMEDALIGHORI&theme=vue" width="100%" alt="GitHub profile overview" />
 </p>
 
 ---
@@ -200,9 +200,9 @@ I'm focused on turning projects into finished public case studies with screensho
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AHMEDALIGHORI&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github&title_color=10100f&text_color=6d6d65&icon_color=ef4d2f" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AHMEDALIGHORI&theme=default&hide_border=true&ring=ef4d2f&fire=ef4d2f&currStreakLabel=10100f" alt="GitHub streak" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMEDALIGHORI&layout=compact&theme=graywhite&hide_border=true&title_color=10100f&text_color=6d6d65" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AHMEDALIGHORI&show_icons=true&theme=graywhite&hide_border=true&title_color=10100f&text_color=6d6d65&icon_color=ef4d2f" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=AHMEDALIGHORI&theme=default&hide_border=true&ring=ef4d2f&fire=ef4d2f&currStreakLabel=10100f" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AHMEDALIGHORI&layout=compact&theme=graywhite&hide_border=true&title_color=10100f&text_color=6d6d65" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -235,7 +235,7 @@ I'm focused on turning projects into finished public case studies with screensho
 </p>
 
 <p align="center">
-  <img src="./assets/footer-motion.svg" alt="Animated footer divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/AHMEDALIGHORI/AHMEDALIGHORI/main/assets/footer-motion.svg" alt="Animated footer divider" width="100%" />
 </p>
 
 <p align="center"><strong>Thanks for visiting — let's build something immersive together.</strong></p>
