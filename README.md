@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AHMEDALIGHORI/AHMEDALIGHORI/main/assets/profile-motion.svg" alt="Ahmed Ali Ghori animated 3D developer profile banner" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/AHMEDALIGHORI/AHMEDALIGHORI@main/assets/profile-motion.svg" alt="Ahmed Ali Ghori animated 3D developer profile banner" width="100%" />
 </p>
 
 <h1 align="center">Ahmed Ali Ghori</h1>
@@ -235,7 +235,7 @@ I'm focused on turning projects into finished public case studies with screensho
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AHMEDALIGHORI/AHMEDALIGHORI/main/assets/footer-motion.svg" alt="Animated footer divider" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/AHMEDALIGHORI/AHMEDALIGHORI@main/assets/footer-motion.svg" alt="Animated footer divider" width="100%" />
 </p>
 
 <p align="center"><strong>Thanks for visiting — let's build something immersive together.</strong></p>
