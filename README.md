@@ -1,24 +1,24 @@
 <!--
-  Premium GitHub Profile README — Ahmed Ali Ghori
-  Dark-luxury · WebGL / R3F / Motion · AI · Data
+  Premium GitHub Profile README â€” Ahmed Ali Ghori
+  Dark-luxury Â· WebGL / R3F / Motion Â· AI Â· Data
 -->
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/AHMEDALIGHORI/AHMEDALIGHORI@main/assets/profile-motion.svg" alt="Ahmed Ali Ghori — immersive 3D developer banner" width="100%" />
+  <img src="./assets/profile-motion.svg" alt="Ahmed Ali Ghori â€” immersive 3D developer banner" width="100%" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3200&pause=900&color=F6F6F0&center=true&vCenter=true&width=780&height=56&lines=Ahmed+Ali+Ghori;3D+Frontend+%26+Immersive+Web;WebGL+%C2%B7+R3F+%C2%B7+GSAP+%C2%B7+AI" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=10100F&center=true&vCenter=true&width=780&height=56&lines=Ahmed+Ali+Ghori;3D+Frontend+%26+Immersive+Web;WebGL+%C2%B7+R3F+%C2%B7+GSAP+%C2%B7+AI" alt="Typing headline" />
 </p>
 
 <h1 align="center">Building experiences people remember</h1>
 
 <p align="center">
   <strong>3D Frontend Developer &amp; Data Analyst</strong><br />
-  Cinematic WebGL worlds · scroll-synced product sites · AI prototypes · insight dashboards<br />
-  Based in Hyderabad, Pakistan · Open to collaboration &amp; freelance
+  Cinematic WebGL worlds Â· scroll-synced product sites Â· AI prototypes Â· insight dashboards<br />
+  Based in Hyderabad, Pakistan Â· Open to collaboration &amp; freelance
 </p>
 
 <p align="center">
@@ -32,10 +32,10 @@
 </p>
 
 <p align="center">
-  <a href="#signature-work">Projects</a> ·
-  <a href="#capability-map">Capabilities</a> ·
-  <a href="#systems--stack">Stack</a> ·
-  <a href="#signal">Analytics</a> ·
+  <a href="#signature-work">Projects</a> Â·
+  <a href="#capability-map">Capabilities</a> Â·
+  <a href="#systems--stack">Stack</a> Â·
+  <a href="#signal">Analytics</a> Â·
   <a href="#connect">Connect</a>
 </p>
 
@@ -43,14 +43,14 @@
 
 <a id="at-a-glance"></a>
 
-## ▸ At a glance
+## â–¸ At a glance
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### Craft
-I design and ship **product-grade interfaces** where motion, depth, and clarity work as one system — not decorations stacked on top of a layout.
+I design and ship **product-grade interfaces** where motion, depth, and clarity work as one system â€” not decorations stacked on top of a layout.
 
 </td>
 <td width="50%" valign="top">
@@ -70,7 +70,7 @@ Vercel-ready demos, clear READMEs, and case-study repos that answer: *what it do
 
 <a id="signature-work"></a>
 
-## ▸ Signature work
+## â–¸ Signature work
 
 > Flagship builds across cinematic web, interactive 3D, computer vision, and AI product surfaces.
 
@@ -78,8 +78,8 @@ Vercel-ready demos, clear READMEs, and case-study repos that answer: *what it do
   <tr>
     <td width="50%" valign="top">
 
-### 🌐 [Webgel Studio](https://github.com/AHMEDALIGHORI/Webgel-Studio-WEBGEL)
-**Three.js · GSAP · Lenis · WebGL**
+### ðŸŒ [Webgel Studio](https://github.com/AHMEDALIGHORI/Webgel-Studio-WEBGEL)
+**Three.js Â· GSAP Â· Lenis Â· WebGL**
 
 Sixteen-page cinematic studio with scroll choreography, WebGL heroes, page transitions, and film-grain overlays.
 
@@ -92,8 +92,8 @@ Sixteen-page cinematic studio with scroll choreography, WebGL heroes, page trans
 </td>
     <td width="50%" valign="top">
 
-### ⚽ [FIFA World Website](https://github.com/AHMEDALIGHORI/FIFA-WORLD-WEBSITE-)
-**React 19 · Vite 6 · WebGL**
+### âš½ [FIFA World Website](https://github.com/AHMEDALIGHORI/FIFA-WORLD-WEBSITE-)
+**React 19 Â· Vite 6 Â· WebGL**
 
 World Cup sticker album with scratch-to-reveal cards, WebGL motion, and liquid-glass hover layers.
 
@@ -108,10 +108,10 @@ World Cup sticker album with scratch-to-reveal cards, WebGL motion, and liquid-g
   <tr>
     <td width="50%" valign="top">
 
-### 🪴 [Plantpot Studio](https://github.com/AHMEDALIGHORI/PLANTPOT)
-**Next.js · R3F · Drei**
+### ðŸª´ [Plantpot Studio](https://github.com/AHMEDALIGHORI/PLANTPOT)
+**Next.js Â· R3F Â· Drei**
 
-Interactive 3D diorama portfolio — orbit controls, animated sky, dark mode, and scene navigation.
+Interactive 3D diorama portfolio â€” orbit controls, animated sky, dark mode, and scene navigation.
 
 <br/>
 
@@ -122,8 +122,8 @@ Interactive 3D diorama portfolio — orbit controls, animated sky, dark mode, an
 </td>
     <td width="50%" valign="top">
 
-### 🍣 [Qitchen Restaurant](https://github.com/AHMEDALIGHORI/qitchen-animated-restaurant-website)
-**HTML · CSS · Motion**
+### ðŸ£ [Qitchen Restaurant](https://github.com/AHMEDALIGHORI/qitchen-animated-restaurant-website)
+**HTML Â· CSS Â· Motion**
 
 Cinematic sushi restaurant site with responsive pages, food imagery systems, and CSS motion design.
 
@@ -137,8 +137,8 @@ Cinematic sushi restaurant site with responsive pages, food imagery systems, and
   <tr>
     <td width="50%" valign="top">
 
-### 🎬 [Ahmed Ali Portfolio](https://github.com/AHMEDALIGHORI/ahmed-ali-portfolio)
-**React · GSAP · Framer Motion**
+### ðŸŽ¬ [Ahmed Ali Portfolio](https://github.com/AHMEDALIGHORI/ahmed-ali-portfolio)
+**React Â· GSAP Â· Framer Motion**
 
 Dark motion portfolio with video hero, scroll-driven animation, and product-style sections.
 
@@ -150,8 +150,8 @@ Dark motion portfolio with video hero, scroll-driven animation, and product-styl
 </td>
     <td width="50%" valign="top">
 
-### 👁️ [VisionAI Pro](https://github.com/AHMEDALIGHORI/VisionAi-)
-**OpenCV · MediaPipe · YOLOv8**
+### ðŸ‘ï¸ [VisionAI Pro](https://github.com/AHMEDALIGHORI/VisionAi-)
+**OpenCV Â· MediaPipe Â· YOLOv8**
 
 Real-time computer vision for product recognition, gestures, and sign-language experiments.
 
@@ -165,8 +165,8 @@ Real-time computer vision for product recognition, gestures, and sign-language e
   <tr>
     <td width="50%" valign="top">
 
-### 🧠 [MindScope RAG](https://github.com/AHMEDALIGHORI/mindscope-emotion-screen-detection-rag)
-**Flask · React · ML · RAG**
+### ðŸ§  [MindScope RAG](https://github.com/AHMEDALIGHORI/mindscope-emotion-screen-detection-rag)
+**Flask Â· React Â· ML Â· RAG**
 
 Emotion-screening prototype with OpenCV cues, model ensemble, and local RAG recommendations.
 
@@ -178,8 +178,8 @@ Emotion-screening prototype with OpenCV cues, model ensemble, and local RAG reco
 </td>
     <td width="50%" valign="top">
 
-### 🕌 [Noor Al-Huda](https://github.com/AHMEDALIGHORI/Noor-AL-Huda)
-**React · Firebase · Gemini**
+### ðŸ•Œ [Noor Al-Huda](https://github.com/AHMEDALIGHORI/Noor-AL-Huda)
+**React Â· Firebase Â· Gemini**
 
 Islamic knowledge platform with stories, Quran science pages, and AI chat flows.
 
@@ -196,7 +196,7 @@ Islamic knowledge platform with stories, Quran science pages, and AI chat flows.
 
 <a id="capability-map"></a>
 
-## ▸ Capability map
+## â–¸ Capability map
 
 | Domain | What ships |
 | :--- | :--- |
@@ -211,7 +211,7 @@ Islamic knowledge platform with stories, Quran science pages, and AI chat flows.
 
 <a id="systems--stack"></a>
 
-## ▸ Systems & stack
+## â–¸ Systems & stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,python,firebase,git,github,vscode&perline=7" alt="Tech stack icons" />
@@ -224,23 +224,23 @@ Islamic knowledge platform with stories, Quran science pages, and AI chat flows.
 **Immersive Web**
 - Three.js / WebGL
 - React Three Fiber
-- Drei · Blender flows
+- Drei Â· Blender flows
 
 </td>
 <td width="33%" valign="top">
 
 **Frontend Core**
-- React · Next.js · Vite
-- TypeScript · Tailwind
-- GSAP · Framer · Lenis
+- React Â· Next.js Â· Vite
+- TypeScript Â· Tailwind
+- GSAP Â· Framer Â· Lenis
 
 </td>
 <td width="33%" valign="top">
 
 **AI & Data**
-- OpenCV · MediaPipe
-- RAG · Gemini
-- Flask · Firebase · Node
+- OpenCV Â· MediaPipe
+- RAG Â· Gemini
+- Flask Â· Firebase Â· Node
 
 </td>
 </tr>
@@ -263,13 +263,13 @@ Islamic knowledge platform with stories, Quran science pages, and AI chat flows.
 
 ---
 
-## ▸ Operating principles
+## â–¸ Operating principles
 
 Every public repo should clear three bars:
 
-1. **Clarity** — what it does in one glance  
-2. **Value** — why it is useful beyond a demo  
-3. **Reproducibility** — how someone runs or learns from it  
+1. **Clarity** â€” what it does in one glance  
+2. **Value** â€” why it is useful beyond a demo  
+3. **Reproducibility** â€” how someone runs or learns from it  
 
 Current focus: turning builds into polished case studies with screenshots, live demos, setup docs, and searchable topics.
 
@@ -277,7 +277,7 @@ Current focus: turning builds into polished case studies with screenshots, live 
 
 <a id="signal"></a>
 
-## ▸ Signal
+## â–¸ Signal
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AHMEDALIGHORI&show_icons=true&theme=graywhite&hide_border=true&title_color=10100f&text_color=6d6d65&icon_color=ef4d2f" alt="GitHub stats" />
@@ -301,7 +301,7 @@ Current focus: turning builds into polished case studies with screenshots, live 
 
 <a id="connect"></a>
 
-## ▸ Connect
+## â–¸ Connect
 
 <p align="center">
   <a href="https://github.com/AHMEDALIGHORI">
@@ -322,13 +322,13 @@ Current focus: turning builds into polished case studies with screenshots, live 
 <br />
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/AHMEDALIGHORI/AHMEDALIGHORI@main/assets/footer-motion.svg" alt="Animated footer divider" width="100%" />
+  <img src="./assets/footer-motion.svg" alt="Animated footer divider" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Thanks for visiting — let’s build something immersive together.</strong>
+  <strong>Thanks for visiting â€” letâ€™s build something immersive together.</strong>
 </p>
 
 <p align="center">
-  <sub>© Ahmed Ali Ghori · Crafted for depth, motion &amp; clarity</sub>
+  <sub>Â© Ahmed Ali Ghori Â· Crafted for depth, motion &amp; clarity</sub>
 </p>
