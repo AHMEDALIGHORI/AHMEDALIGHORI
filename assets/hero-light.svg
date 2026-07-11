@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmed Ali Ghori - Immersive Frontend Developer</title>
+  <desc id="desc">Light editorial banner with an abstract dimensional orb and interface grid.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#faf8f1"/>
+      <stop offset="0.58" stop-color="#f1eee5"/>
+      <stop offset="1" stop-color="#f8f5ed"/>
+    </linearGradient>
+    <radialGradient id="warm-glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff623e" stop-opacity="0.26"/>
+      <stop offset="0.48" stop-color="#ff623e" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#ff623e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb" cx="0.3" cy="0.24" r="0.8">
+      <stop offset="0" stop-color="#f6ffd9"/>
+      <stop offset="0.2" stop-color="#caff4c"/>
+      <stop offset="0.62" stop-color="#70862f"/>
+      <stop offset="1" stop-color="#242816"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ef4d2f"/>
+      <stop offset="1" stop-color="#9fcf1f"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#141512" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <clipPath id="orb-clip">
+      <circle cx="960" cy="210" r="116"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="420" rx="26" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="418" rx="25" fill="none" stroke="#171813" stroke-opacity="0.16"/>
+  <rect width="1200" height="420" rx="26" fill="url(#grid)"/>
+  <circle cx="960" cy="210" r="248" fill="url(#warm-glow)"/>
+
+  <g font-family="Segoe UI, Arial, Helvetica, sans-serif">
+    <text x="72" y="76" fill="#df4529" font-size="15" font-weight="700" letter-spacing="3">AAG / CREATIVE ENGINEERING</text>
+    <text x="70" y="174" fill="#141512" font-size="67" font-weight="750" letter-spacing="-2">IMMERSIVE</text>
+    <text x="70" y="245" fill="#141512" font-size="67" font-weight="750" letter-spacing="-2">FRONTEND</text>
+    <rect x="72" y="276" width="238" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="72" y="316" fill="#55574f" font-size="18" letter-spacing="1.1">WEBGL / REACT / MOTION</text>
+    <text x="72" y="356" fill="#74766d" font-size="13" letter-spacing="2">HYDERABAD, PAKISTAN</text>
+  </g>
+
+  <g fill="none" stroke-linecap="round">
+    <ellipse cx="960" cy="210" rx="177" ry="64" stroke="#ef4d2f" stroke-opacity="0.6" stroke-width="2" transform="rotate(-18 960 210)"/>
+    <ellipse cx="960" cy="210" rx="154" ry="49" stroke="#7b9d24" stroke-opacity="0.36" stroke-width="1.5" transform="rotate(50 960 210)"/>
+    <circle cx="960" cy="210" r="144" stroke="#141512" stroke-opacity="0.1"/>
+  </g>
+
+  <circle cx="960" cy="210" r="116" fill="url(#orb)"/>
+  <g clip-path="url(#orb-clip)" fill="none" stroke="#0a0b08" stroke-opacity="0.34">
+    <path d="M826 154C884 180 1036 181 1092 151"/>
+    <path d="M817 188C883 210 1038 211 1103 185"/>
+    <path d="M816 225C882 240 1040 242 1104 221"/>
+    <path d="M829 264C895 267 1026 276 1087 257"/>
+    <path d="M884 86C918 151 913 282 878 333"/>
+    <path d="M932 76C955 149 956 285 932 342"/>
+    <path d="M982 73C978 147 984 282 1000 343"/>
+    <path d="M1031 89C1010 153 1021 274 1052 324"/>
+  </g>
+  <circle cx="923" cy="169" r="18" fill="#ffffff" fill-opacity="0.3"/>
+  <circle cx="923" cy="169" r="7" fill="#ffffff" fill-opacity="0.85"/>
+
+  <g font-family="Segoe UI, Arial, Helvetica, sans-serif">
+    <rect x="790" y="45" width="112" height="34" rx="17" fill="#ffffff" fill-opacity="0.5" stroke="#151612" stroke-opacity="0.14"/>
+    <text x="846" y="67" text-anchor="middle" fill="#484a43" font-size="12" letter-spacing="1.4">DEPTH</text>
+    <rect x="1032" y="331" width="108" height="34" rx="17" fill="#ffffff" fill-opacity="0.5" stroke="#151612" stroke-opacity="0.14"/>
+    <text x="1086" y="353" text-anchor="middle" fill="#484a43" font-size="12" letter-spacing="1.4">CLARITY</text>
+    <circle cx="790" cy="340" r="5" fill="#ef4d2f"/>
+    <line x1="805" y1="340" x2="895" y2="340" stroke="#151612" stroke-opacity="0.22"/>
+  </g>
+</svg>
