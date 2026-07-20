@@ -59,7 +59,7 @@
 
   <!-- center text block -->
   <text x="600" y="118" text-anchor="middle" fill="#f6f6f0" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">Ahmed Ali Ghori</text>
-  <text x="600" y="158" text-anchor="middle" fill="#d7ff3f" font-family="Consolas, monospace" font-size="18" letter-spacing="2">3D WEB · FRONTEND · AI · DATA</text>
+  <text x="600" y="158" text-anchor="middle" fill="#d7ff3f" font-family="Consolas, monospace" font-size="18" letter-spacing="2">3D WEB Â· FRONTEND Â· AI Â· DATA</text>
   <text x="600" y="192" text-anchor="middle" fill="#b8b8b0" font-family="Segoe UI, Arial, sans-serif" font-size="16">Building immersive WebGL experiences &amp; intelligent products</text>
 
   <!-- animated underline -->
@@ -71,6 +71,6 @@
   <!-- code pill -->
   <g transform="translate(430 232)">
     <rect width="340" height="34" rx="17" fill="#f6f6f0" fill-opacity="0.06" stroke="#ef4d2f" stroke-opacity="0.35"/>
-    <text x="170" y="22" text-anchor="middle" fill="#f6f6f0" font-family="Consolas, monospace" font-size="13">Three.js · R3F · React · Next.js · Python</text>
+    <text x="170" y="22" text-anchor="middle" fill="#f6f6f0" font-family="Consolas, monospace" font-size="13">Three.js Â· R3F Â· React Â· Next.js Â· Python</text>
   </g>
 </svg>

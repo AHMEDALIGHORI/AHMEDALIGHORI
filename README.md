@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/profile-motion.svg" alt="Ahmed Ali Ghori — immersive 3D frontend developer banner" width="100%">
+  <img src="./assets/profile-banner.png" alt="Ahmed Ali Ghori — immersive 3D frontend developer banner" width="100%">
 </p>
 
 <h1 align="center">Ahmed Ali Ghori</h1>
@@ -90,5 +90,5 @@ Have a product that should feel as good as it works? I am available for immersiv
 </p>
 
 <p align="center">
-  <img src="./assets/footer-motion.svg" alt="Animated accent divider" width="100%">
+  <img src="./assets/footer-banner.png" alt="Decorative accent divider" width="100%">
 </p>
