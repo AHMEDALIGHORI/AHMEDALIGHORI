@@ -4,11 +4,7 @@
 -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-    <img src="./assets/hero-dark.svg" alt="" width="100%">
-  </picture>
+  <img src="./assets/profile-motion.svg" alt="Ahmed Ali Ghori — immersive 3D frontend developer banner" width="100%">
 </p>
 
 <h1 align="center">Ahmed Ali Ghori</h1>
@@ -34,10 +30,6 @@
 
 ### 01 / Webgel Studio
 
-<a href="https://github.com/AHMEDALIGHORI/Webgel-Studio-WEBGEL">
-  <img src="./assets/projects/webgel-studio.svg" alt="Abstract cinematic artwork for Webgel Studio" width="100%">
-</a>
-
 A 16-page creative studio experience where WebGL heroes, smooth-scroll choreography, page transitions, and grain-driven art direction work as one visual system.
 
 `Three.js` `GSAP` `Lenis` `WebGL`
@@ -46,10 +38,6 @@ A 16-page creative studio experience where WebGL heroes, smooth-scroll choreogra
 
 ### 02 / PlantPot Studio
 
-<a href="https://github.com/AHMEDALIGHORI/PlantPot">
-  <img src="./assets/projects/plantpot-studio.svg" alt="Abstract 3D garden artwork for PlantPot Studio" width="100%">
-</a>
-
 An explorable 3D portfolio built as a miniature world, combining React Three Fiber, animated environments, orbit controls, and scene-led navigation.
 
 `Next.js` `React Three Fiber` `Drei` `TypeScript`
@@ -57,10 +45,6 @@ An explorable 3D portfolio built as a miniature world, combining React Three Fib
 [Explore the repository](https://github.com/AHMEDALIGHORI/PlantPot)
 
 ### 03 / Qitchen
-
-<a href="https://qitchen-animated-restaurant-website.vercel.app">
-  <img src="./assets/projects/qitchen.svg" alt="Cinematic restaurant artwork for the Qitchen website" width="100%">
-</a>
 
 A responsive restaurant experience shaped through cinematic food imagery, restrained typography, and motion that supports the dining narrative.
 
@@ -103,4 +87,8 @@ Have a product that should feel as good as it works? I am available for immersiv
 
 <p align="center">
   <sub>Built with native Markdown and repository-owned artwork for fast, reliable rendering.</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/footer-motion.svg" alt="Animated accent divider" width="100%">
 </p>
