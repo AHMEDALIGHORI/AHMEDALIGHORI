@@ -1,8 +1,18 @@
 name: Generate Snake Animation
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  # Scheduled runs are intentionally disabled. GitHub Actions is currently
+  # blocked on this account by a billing lock, so every nightly run failed
+  # before a single step started ("The job was not started because your
+  # account is locked due to a billing issue") — one failure notification
+  # per day, with no snake produced.
+  #
+  # Once Actions can run again, restore the nightly schedule by un-commenting
+  # the two lines below, then check that the `output` branch appears and
+  # un-comment the snake image block near the end of README.md.
+  #
+  # schedule:
+  #   - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
