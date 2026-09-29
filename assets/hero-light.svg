@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Ahmed Ali Ghori — Immersive Frontend Developer and AI Product Builder</title>
+  <desc id="heroDesc">Animated banner: light studio backdrop with a drifting grid, floating isometric cubes, a rotating wireframe orb, and a light sweep across the name.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7f6f0"/>
+      <stop offset="45%" stop-color="#e9e7db"/>
+      <stop offset="100%" stop-color="#f7f6f0"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ef4d2f"/>
+      <stop offset="50%" stop-color="#9fbb1f"/>
+      <stop offset="100%" stop-color="#ef4d2f"/>
+    </linearGradient>
+
+    <linearGradient id="sweep" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9fbb1f" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#9fbb1f" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#9fbb1f" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="vignette" cx="50%" cy="50%" r="62%">
+      <stop offset="0%" stop-color="#ef4d2f" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#10100f" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="1.1" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#10100f" stroke-opacity="0.07" stroke-width="1"/>
+      <animateTransform attributeName="patternTransform" type="translate"
+                        values="0 0; 40 40; 0 0" dur="26s" repeatCount="indefinite"/>
+    </pattern>
+  </defs>
+
+  <!-- backdrop -->
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+  <rect width="1200" height="340" fill="url(#vignette)"/>
+
+  <!-- rotating wireframe orb behind the wordmark -->
+  <g fill="none" stroke="url(#accent)" stroke-width="1">
+    <ellipse cx="600" cy="172" rx="248" ry="66" opacity="0.15">
+      <animateTransform attributeName="transform" type="rotate"
+                        from="0 600 172" to="360 600 172" dur="28s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="600" cy="172" rx="248" ry="66" opacity="0.10">
+      <animateTransform attributeName="transform" type="rotate"
+                        from="120 600 172" to="480 600 172" dur="36s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="600" cy="172" rx="252" ry="70" opacity="0.16">
+      <animate attributeName="rx" values="252;266;252" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.08;0.24;0.08" dur="7s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- drifting particles -->
+  <g fill="#c9e42d">
+    <circle cx="128" cy="84" r="2" opacity="0.6">
+      <animate attributeName="cy" values="84;62;84" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1042" cy="112" r="2.4" opacity="0.5">
+      <animate attributeName="cy" values="112;88;112" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="196" cy="256" r="1.8" opacity="0.45">
+      <animate attributeName="cx" values="196;220;196" dur="13s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1088" cy="238" r="1.6" opacity="0.5">
+      <animate attributeName="opacity" values="0.15;0.8;0.15" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g fill="#ef4d2f">
+    <circle cx="86" cy="196" r="1.6" opacity="0.5">
+      <animate attributeName="opacity" values="0.15;0.7;0.15" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1130" cy="168" r="1.8" opacity="0.45">
+      <animate attributeName="cy" values="168;150;168" dur="10s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- isometric cube · ember (left) -->
+  <g filter="url(#glow)">
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+                        values="86 152; 86 138; 86 152" dur="8s" repeatCount="indefinite"/>
+      <polygon points="0,30 40,10 80,30 40,50" fill="#ef4d2f" opacity="0.95"/>
+      <polygon points="0,30 0,70 40,90 40,50" fill="#c73d24"/>
+      <polygon points="40,50 40,90 80,70 80,30" fill="#ff6b4a"/>
+    </g>
+  </g>
+
+  <!-- isometric cube · volt (right) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+                      values="982 132; 982 118; 982 132" dur="7s" repeatCount="indefinite"/>
+    <polygon points="0,30 40,10 80,30 40,50" fill="#c9e42d" opacity="0.9"/>
+    <polygon points="0,30 0,70 40,90 40,50" fill="#96b418"/>
+    <polygon points="40,50 40,90 80,70 80,30" fill="#e5f97a"/>
+  </g>
+
+  <!-- small satellite cube -->
+  <g opacity="0.55">
+    <animateTransform attributeName="transform" type="translate"
+                      values="1092 78; 1092 92; 1092 78" dur="9s" repeatCount="indefinite"/>
+    <polygon points="0,12 16,4 32,12 16,20" fill="#c9e42d" opacity="0.85"/>
+    <polygon points="0,12 0,28 16,36 16,20" fill="#96b418"/>
+    <polygon points="16,20 16,36 32,28 32,12" fill="#e5f97a"/>
+  </g>
+
+  <!-- corner brackets -->
+  <g fill="none" stroke="#ef4d2f" stroke-width="2" stroke-linecap="square" opacity="0.7">
+    <path d="M28 66 L28 28 L66 28"/>
+    <path d="M1134 28 L1172 28 L1172 66"/>
+    <path d="M28 274 L28 312 L66 312"/>
+    <path d="M1134 312 L1172 312 L1172 274"/>
+    <animate attributeName="opacity" values="0.35;0.85;0.35" dur="5s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- kicker -->
+  <text x="600" y="70" text-anchor="middle" fill="#6f6f65"
+        font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11.5" letter-spacing="5.5">HYDERABAD, PK &#183; OPEN TO WORK &#183; EST. 2024</text>
+
+  <!-- wordmark -->
+  <text x="600" y="132" text-anchor="middle" fill="#10100f" filter="url(#softGlow)"
+        font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
+        font-size="52" font-weight="700" letter-spacing="1.5">AHMED ALI GHORI</text>
+
+  <!-- animated underline -->
+  <rect y="150" height="3" rx="1.5" fill="url(#accent)">
+    <animate attributeName="width" values="220;400;220" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="490;400;490" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- dual positioning -->
+  <text x="600" y="192" text-anchor="middle"
+        font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="18" letter-spacing="2.5">
+    <tspan fill="#7d9414">IMMERSIVE FRONTEND</tspan><tspan fill="#ef4d2f" font-size="20" font-weight="700">  &#215;  </tspan><tspan fill="#7d9414">APPLIED AI</tspan>
+  </text>
+
+  <!-- subline -->
+  <text x="600" y="222" text-anchor="middle" fill="#55554c"
+        font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="15.5">Cinematic WebGL interfaces &#8212; and the AI systems running behind them.</text>
+
+  <!-- stack pill -->
+  <g transform="translate(378 242)">
+    <rect width="444" height="36" rx="18" fill="#10100f" fill-opacity="0.05" stroke="#ef4d2f" stroke-opacity="0.4"/>
+    <text x="222" y="23" text-anchor="middle" fill="#10100f"
+          font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" letter-spacing="0.4">Three.js &#183; R3F &#183; GSAP &#183; Next.js &#183; Python &#183; RAG</text>
+    <circle cx="20" cy="18" r="3.5" fill="#c9e42d">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- light sweep across the whole banner -->
+  <rect x="-160" y="0" width="160" height="340" fill="url(#sweep)">
+    <animate attributeName="x" values="-160;1200" dur="9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
