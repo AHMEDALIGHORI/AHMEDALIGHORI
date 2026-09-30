@@ -5,10 +5,8 @@
   Design: visual, proof-dense, fast to scan.
 
   Custom assets (hand-authored, animated, rendered and checked before commit)
-    assets/hero.svg             dark-theme banner
-    assets/hero-light.svg       light-theme banner
-    assets/portrait.svg         portrait band, dark theme (photo embedded)
-    assets/portrait-light.svg   portrait band, light theme
+    assets/portrait.svg         the one header band, dark theme (photo embedded)
+    assets/portrait-light.svg   the one header band, light theme
     assets/arch-voice2law.svg   Voice2Law request path
     assets/arch-noor-rag.svg    Noor retrieval path
   Banners swap with the reader's GitHub theme via <picture> + prefers-color-scheme.
@@ -42,9 +40,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-    <img src="./assets/hero.svg" alt="Ahmed Ali Ghori — frontend developer and data analyst. Hyderabad, Pakistan. Responsive web interfaces turned into actionable insight. Open to work." width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/portrait.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/portrait-light.svg">
+    <img src="./assets/portrait.svg" alt="Ahmed Ali Ghori — frontend developer and data analyst based in Hyderabad, Pakistan. Responsive web interfaces and applied AI, grounded in retrieval and cited sources." width="100%">
   </picture>
 </p>
 
@@ -53,14 +51,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=D7FF3F&center=true&vCenter=true&width=880&height=46&lines=Immersive+frontend+%C3%97+applied+AI;Three.js+%C2%B7+R3F+%C2%B7+GSAP+%C2%B7+WebGL;RAG+%C2%B7+computer+vision+%C2%B7+FastAPI;Source-grounded+AI%2C+shipped+as+products">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=10100F&center=true&vCenter=true&width=880&height=46&lines=Immersive+frontend+%C3%97+applied+AI;Three.js+%C2%B7+R3F+%C2%B7+GSAP+%C2%B7+WebGL;RAG+%C2%B7+computer+vision+%C2%B7+FastAPI;Source-grounded+AI%2C+shipped+as+products">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=D7FF3F&center=true&vCenter=true&width=880&height=46&lines=Immersive+frontend+%C3%97+applied+AI;Three.js+%C2%B7+R3F+%C2%B7+GSAP+%C2%B7+WebGL;RAG+%C2%B7+computer+vision+%C2%B7+FastAPI;Source-grounded+AI%2C+shipped+as+products" alt="Immersive frontend and applied AI — Three.js, R3F, GSAP, WebGL, RAG, computer vision, FastAPI">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/portrait.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/portrait-light.svg">
-    <img src="./assets/portrait.svg" alt="Ahmed Ali Ghori — frontend developer and data analyst based in Hyderabad, Pakistan. Responsive web interfaces and applied AI, grounded in retrieval and cited sources." width="100%">
   </picture>
 </p>
 
