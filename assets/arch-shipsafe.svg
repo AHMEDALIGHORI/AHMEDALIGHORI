@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="ssTitle ssDesc">
+  <title id="ssTitle">ship-safe verification path</title>
+  <desc id="ssDesc">Five stages: AI-written code enters the scanner, deterministic analysis runs with no API key, each finding is investigated to confirm whether it is real, surviving findings are backed by evidence, and the result leaves as JSON, SARIF or a CI gate.</desc>
+
+  <defs>
+    <linearGradient id="ssPanel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10100f"/>
+      <stop offset="55%" stop-color="#171610"/>
+      <stop offset="100%" stop-color="#10100f"/>
+    </linearGradient>
+    <linearGradient id="ssAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ef4d2f"/>
+      <stop offset="50%" stop-color="#d7ff3f"/>
+      <stop offset="100%" stop-color="#ef4d2f"/>
+    </linearGradient>
+    <pattern id="ssGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#f6f6f0" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+    <marker id="ssArrow" markerWidth="9" markerHeight="9" refX="7" refY="3.2" orient="auto">
+      <path d="M0,0 L7,3.2 L0,6.4 z" fill="#ef4d2f"/>
+    </marker>
+    <filter id="ssGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="url(#ssPanel)" stroke="#ef4d2f" stroke-opacity="0.32"/>
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="url(#ssGrid)"/>
+
+  <g fill="none" stroke="#ef4d2f" stroke-width="2" stroke-linecap="square" opacity="0.65">
+    <path d="M26 60 L26 26 L60 26"/>
+    <path d="M1140 26 L1174 26 L1174 60"/>
+    <path d="M26 240 L26 274 L60 274"/>
+    <path d="M1140 274 L1174 274 L1174 240"/>
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="6s" repeatCount="indefinite"/>
+  </g>
+
+  <text x="44" y="48" fill="#d7ff3f" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13.5" font-weight="600" letter-spacing="3.6" filter="url(#ssGlow)">SHIP-SAFE &#8212; VERIFICATION PATH</text>
+  <text x="44" y="72" fill="#8a8a82" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11.5" letter-spacing="1.4">security agent for AI-written software &#183; deterministic core</text>
+
+  <g stroke="#ef4d2f" stroke-width="1.6" marker-end="url(#ssArrow)">
+    <line x1="230" y1="164" x2="256" y2="164" stroke-dasharray="7 5">
+      <animate attributeName="stroke-dashoffset" values="0;-24" dur="1.6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="460" y1="164" x2="486" y2="164" stroke-dasharray="7 5">
+      <animate attributeName="stroke-dashoffset" values="0;-24" dur="1.6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="690" y1="164" x2="716" y2="164" stroke-dasharray="7 5">
+      <animate attributeName="stroke-dashoffset" values="0;-24" dur="1.6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="920" y1="164" x2="946" y2="164" stroke-dasharray="7 5">
+      <animate attributeName="stroke-dashoffset" values="0;-24" dur="1.6s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <g font-family="'JetBrains Mono','SF Mono',Consolas,monospace">
+    <g>
+      <rect x="30" y="126" width="200" height="76" rx="12" fill="#f6f6f0" fill-opacity="0.045" stroke="#ef4d2f" stroke-opacity="0.75"/>
+      <text x="48" y="150" fill="#d7ff3f" font-size="10" letter-spacing="2">01</text>
+      <text x="48" y="172" fill="#f6f6f0" font-size="13.5" font-weight="600" letter-spacing="0.6">AI-WRITTEN CODE</text>
+      <text x="48" y="190" fill="#8a8a82" font-size="10.5">the input under suspicion</text>
+    </g>
+    <g>
+      <rect x="260" y="126" width="200" height="76" rx="12" fill="#f6f6f0" fill-opacity="0.045" stroke="#d7ff3f" stroke-opacity="0.7"/>
+      <text x="278" y="150" fill="#d7ff3f" font-size="10" letter-spacing="2">02</text>
+      <text x="278" y="172" fill="#f6f6f0" font-size="13.5" font-weight="600" letter-spacing="0.6">DETERMINISTIC SCAN</text>
+      <text x="278" y="190" fill="#8a8a82" font-size="10.5">no API key, fully local</text>
+    </g>
+    <g>
+      <rect x="490" y="126" width="200" height="76" rx="12" fill="#f6f6f0" fill-opacity="0.045" stroke="#ef4d2f" stroke-opacity="0.75"/>
+      <text x="508" y="150" fill="#d7ff3f" font-size="10" letter-spacing="2">03</text>
+      <text x="508" y="172" fill="#f6f6f0" font-size="13.5" font-weight="600" letter-spacing="0.6">TRIAGE FINDINGS</text>
+      <text x="508" y="190" fill="#8a8a82" font-size="10.5">is it real? false positives die</text>
+    </g>
+    <g>
+      <rect x="720" y="126" width="200" height="76" rx="12" fill="#f6f6f0" fill-opacity="0.045" stroke="#d7ff3f" stroke-opacity="0.7"/>
+      <text x="738" y="150" fill="#d7ff3f" font-size="10" letter-spacing="2">04</text>
+      <text x="738" y="172" fill="#f6f6f0" font-size="13.5" font-weight="600" letter-spacing="0.6">EVIDENCE</text>
+      <text x="738" y="190" fill="#8a8a82" font-size="10.5">proof for every survivor</text>
+    </g>
+    <g>
+      <rect x="950" y="126" width="200" height="76" rx="12" fill="#f6f6f0" fill-opacity="0.045" stroke="#ef4d2f" stroke-opacity="0.75"/>
+      <text x="968" y="150" fill="#d7ff3f" font-size="10" letter-spacing="2">05</text>
+      <text x="968" y="172" fill="#f6f6f0" font-size="13.5" font-weight="600" letter-spacing="0.6">JSON &#183; SARIF &#183; CI</text>
+      <text x="968" y="190" fill="#8a8a82" font-size="10.5">automation-ready output</text>
+    </g>
+  </g>
+
+  <rect x="30" y="228" width="1120" height="1" fill="url(#ssAccent)" opacity="0.35"/>
+  <text x="44" y="252" fill="#b8b8b0" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="11" letter-spacing="0.8">JavaScript core &#183; MIT licence &#183; 850 stars &#183; JSON + SARIF output &#183; VS Code extension &#183; GitHub Action</text>
+  <text x="44" y="272" fill="#8a8a82" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="10.5" letter-spacing="0.6">principle: ship with evidence instead of hope &#8195;|&#8195; local-first &#183; no key required &#183; same result on every run</text>
+</svg>
+
