@@ -92,6 +92,12 @@ A frontend internship (remote or Hyderabad) where I can own real UI work, or a f
   <sub>the same year, from above</sub>
 </p>
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=aurora&style=erased" width="100%" alt="Contribution heatmap wiped away cell by cell" />
+  <br />
+  <sub>erased, cell by cell</sub>
+</p>
+
 ## Off the clock
 
 Chess, because a profile should be fun to scroll.
