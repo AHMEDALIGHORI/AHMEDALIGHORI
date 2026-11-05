@@ -1,182 +1,147 @@
 <!--
-  Ahmed Ali Ghori — GitHub profile README
-  ─────────────────────────────────────────────────────────────
-  Layout: GitSkins animated sections (aurora theme).
-
-  Every embed below was fetched and returns 200 for this account
-  before commit. All of them are plain <img> tags pointing at
-  gitskins.com, which GitHub serves through its camo image proxy,
-  so there is no build step, no committed binary, and nothing to
-  regenerate when a section changes.
-
-  Personalisation applied to the upstream template
-    · username  torvalds -> AHMEDALIGHORI (every section)
-    · wordmark  label   -> "Ahmed Ali Ghori"
-    · highlights         -> rewritten to match the actual work
-                            (frontend / applied AI / data analysis)
-    · alt text           -> rewritten to describe this profile
-    · Space Shooter      -> BLOCKED, see the note at that section
-
-  Known gap: the Space Shooter panel is commented out. It needs a
-  daily GitHub Actions run publishing to an `output` branch, and
-  Actions cannot start jobs on this account (billing lock), so the
-  GIF 404s and a dead image would render mid-page. Uncomment it
-  once Actions runs again.
+  Ahmed Ali Ghori · github.com/AHMEDALIGHORI
+  The moving panels are live GitSkins SVG embeds, generated from public GitHub data.
+  No workflow to keep running, no committed image files.
+  Optional extras (pinned-projects card, social row) are commented out at the bottom.
 -->
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=AHMEDALIGHORI&theme=aurora&label=Ahmed%20Ali%20Ghori" width="100%" alt="3D ASCII wordmark for Ahmed Ali Ghori" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=AHMEDALIGHORI&theme=aurora&label=Ahmed%20Ali%20Ghori" width="100%" alt="AHMED ALI GHORI — animated 3D ASCII wordmark" />
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=AHMEDALIGHORI&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="100%" alt="Animated GitHub profile hero for Ahmed Ali Ghori" />
+    <img src="https://www.gitskins.com/api/section/hero?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="100%" alt="Ahmed Ali Ghori — frontend developer, Hyderabad, Sindh" />
   </picture>
 </p>
 
+<h3 align="center">Frontend developer. I build interfaces that feel alive and still load fast.</h3>
+
 <p align="center">
-  <a href="https://ahmed-ali-portfolio-amber.vercel.app"><b>Portfolio</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/AHMEDALIGHORI?tab=repositories"><b>Repositories</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ahmed-ali-ghori-85a24b338"><b>LinkedIn</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.gitskins.com">gitskins.com</a>
+  React · Next.js · TypeScript · Tailwind · Three.js · GSAP · WebGL
+  <br />
+  Software Engineering student at Iqra University, Hyderabad, Sindh
+  <br />
+  <b>Open to frontend internships, junior roles and freelance builds.</b>
+</p>
+
+<p align="center">
+  <a href="mailto:ahmedalighori9@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/ahmed-ali-ghori-803a0916b">LinkedIn</a> ·
+  <a href="#selected-work">Selected work</a> ·
+  <a href="https://github.com/AHMEDALIGHORI?tab=repositories">All repositories</a>
 </p>
 
 <br />
 
-## The visual system
+## Selected work
 
-This profile is a living animation demo built from GitSkins SVG sections. Each panel is a GitHub-safe image embed, rendered from public GitHub data and animated without a workflow or committed image files.
+Every project below is live, open source, and built to run on a phone.
+
+| Project | Live demo | Built with | What it is |
+| :--- | :--- | :--- | :--- |
+| **[Wok Wave](https://github.com/AHMEDALIGHORI/wok-wave)** | [wok-wave.vercel.app](https://wok-wave.vercel.app) | Next.js · TypeScript · Tailwind · Motion | Chinese street-food restaurant site with a scroll-driven menu. |
+| **[Mr. Biriyaniwala](https://github.com/AHMEDALIGHORI/mr-biriyaniwala)** | [mr-biriyaniwala.vercel.app](https://mr-biriyaniwala.vercel.app) | HTML · CSS · JS · GSAP · Node 22 | Restaurant site with WhatsApp order drafts and a table-request desk. |
+| **[LOGOFF-01](https://github.com/AHMEDALIGHORI/LOGOFF-01-Touch-Grass)** | [logooff-01-touch-grass.vercel.app](https://logooff-01-touch-grass.vercel.app) | Three.js · WebGL | Procedural 3D sneaker product page — zero images, zero models. |
+| **[GHORI CITY](https://github.com/AHMEDALIGHORI/GHORI-CITY)** | [ghori-city.vercel.app](https://ghori-city.vercel.app) | Three.js · GSAP · Blender | Interactive 3D portfolio city with a cinematic opening. |
+| **[NEON](https://github.com/AHMEDALIGHORI/neon-the-next-interface)** | [neon-the-next-interface.vercel.app](https://neon-the-next-interface.vercel.app) | React · Three.js · GLSL | Seven-chapter scroll film, everything procedural. |
+| **[Qitchen](https://github.com/AHMEDALIGHORI/qitchen-animated-restaurant-website)** | [qitchen-animated-restaurant-website.vercel.app](https://qitchen-animated-restaurant-website.vercel.app) | HTML · CSS · JS | Four-page responsive restaurant template with CSS motion. |
+
+## What I do
+
+- **Frontend engineering** — React, Next.js and TypeScript: reusable components, responsive layout, REST API integration.
+- **Motion and 3D** — scroll-driven experiences in Three.js / WebGL and GSAP that stay smooth on a mid-range phone.
+- **Business sites** — menu, ordering, WhatsApp handoff and table requests, i.e. the flow a real restaurant needs.
+
+I care about the boring parts too: fast first paint, readable type on a 375 px screen, no layout jumps, no broken forms.
+
+## What I'm looking for
+
+A frontend internship (remote or Hyderabad) where I can own real UI work, or a freelance build for a restaurant, brand or small business. If you have either, my inbox is open.
+
+## The profile
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/portrait?username=AHMEDALIGHORI&theme=aurora" width="100%" alt="Animated ASCII portrait for Ahmed Ali Ghori" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=AHMEDALIGHORI&theme=aurora&items=Frontend::fast%20interfaces%20on%20real%20phones|Product::sites%20people%20can%20order%20from|3D::cinematic%20without%20the%20weight" width="100%" alt="Three things I focus on: fast frontend, usable product sites, lightweight 3D" />
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=AHMEDALIGHORI&theme=aurora" width="100%" alt="Animated GitHub stats for Ahmed Ali Ghori" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=AHMEDALIGHORI&theme=aurora" width="100%" alt="Animated ASCII portrait of Ahmed Ali Ghori" />
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=AHMEDALIGHORI&theme=aurora" width="100%" alt="Animated language stack for Ahmed Ali Ghori" />
+  <img src="https://www.gitskins.com/api/section/stats?username=AHMEDALIGHORI&theme=aurora" width="100%" alt="Live GitHub stats: stars, contributions, repositories, followers" />
 </p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=AHMEDALIGHORI&theme=aurora" width="100%" alt="Language stack weighted by repositories" />
+</p>
+
+## Contribution
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=aurora&style=snake" width="100%" alt="Contribution heatmap as an animated snake trail" />
+  <br />
+  <sub>snake trail</sub>
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=aurora&style=jet" width="100%" alt="Contribution heatmap as an animated jet" />
+  <br />
+  <sub>the same year, from above</sub>
+</p>
+
+## Off the clock
+
+Chess, because a profile should be fun to scroll.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/chess?username=AHMEDALIGHORI&theme=aurora" width="420" alt="Animated automatic chess replay" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/system-scan?username=AHMEDALIGHORI&theme=aurora" width="100%" alt="Terminal-style system scan: role, status, languages, repositories, contributions, stars, followers" />
+</p>
+
+## Contact
+
+- **Email** — [ahmedalighori9@gmail.com](mailto:ahmedalighori9@gmail.com)
+- **WhatsApp** — [+92 336 8933592](https://wa.me/923368933592)
+- **LinkedIn** — [in/ahmed-ali-ghori-803a0916b](https://www.linkedin.com/in/ahmed-ali-ghori-803a0916b)
+- **Location** — Hyderabad, Sindh, Pakistan (GMT+5) · happy to work remotely
+
+If you want to see how I build, the [commit history](https://github.com/AHMEDALIGHORI?tab=repositories) is the honest version: many projects, shipped end to end.
 
 <br />
 
-## Contribution games
-
-The contribution graph can become a different visual experience without changing the underlying profile data. These are the three game-like modes available in README Studio.
-
-### Jet
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=aurora&style=jet" width="100%" alt="Animated contribution Jet game" />
-</p>
-
-### Snake
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=aurora&style=snake" width="100%" alt="Animated contribution Snake game" />
-</p>
-
-### Eraser
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=aurora&style=erased" width="100%" alt="Animated contribution Eraser visual" />
+  <sub>Built by hand, with a little WebGL.</sub>
 </p>
 
 <!--
-### Space Shooter
+  OPTIONAL SECTIONS — turn on when the data behind them is ready.
 
-The contribution graph becomes a playable arcade scene. GitHub Actions refreshes the animation daily and publishes it to this repository's `output` branch.
+  1) Pinned-projects card (auto-updates from your pinned repos).
+     First pin six repos: profile → "Customize your pins" →
+     Wok Wave, Mr. Biriyaniwala, LOGOFF-01, GHORI CITY, NEON, Qitchen.
+     Then delete the comment markers around this line:
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AHMEDALIGHORI/AHMEDALIGHORI/output/space-shooter.gif" width="100%" alt="Animated contribution Space Shooter game" />
-</p>
+  <p align="center">
+    <img src="https://www.gitskins.com/api/section/projects?username=AHMEDALIGHORI&theme=aurora" width="100%" alt="Pinned repositories as animated project cards" />
+  </p>
 
-To enable: add the workflow that writes space-shooter.gif to the
-`output` branch and let it run once. It is disabled here because
-GitHub Actions cannot start jobs on this account (billing lock), and
-an unbuilt URL would render as a broken image.
+  2) Social row. Add your website + LinkedIn under GitHub Settings → Public profile
+     → Social accounts, then uncomment:
+
+  <p align="center">
+    <img src="https://www.gitskins.com/api/section/social?username=AHMEDALIGHORI&theme=aurora&style=aura" width="100%" alt="Social links row" />
+  </p>
+
+  3) Portfolio link. https://ahmed-ali-portfolio-amber.vercel.app currently serves the
+     server bundle instead of the site. Once it is redeployed (Vite build output =
+     dist/public), put it back in the links line at the top.
+
+  4) The old Space Shooter panel needs a daily GitHub Actions run to publish its GIF.
+     Actions cannot start on this account (billing lock), so it stays removed.
 -->
-
-<br />
-
-## Chess replay
-
-Chess is a decorative replay that runs automatically inside the profile. It is designed to be watched, not played, so it stays lightweight and copy-ready inside a README.
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/chess?username=AHMEDALIGHORI&theme=aurora" width="100%" alt="Animated automatic chess replay" />
-</p>
-
-
-## The rest of the profile
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=AHMEDALIGHORI&theme=aurora&items=Frontend::Interfaces%20that%20stay%20fast|Applied%20AI::Answers%20grounded%20in%20sources|Data%20analysis::Raw%20data%20into%20decisions" width="100%" alt="Animated profile highlights" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=AHMEDALIGHORI&theme=aurora" width="100%" alt="Animated pinned projects section" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/system-scan?username=AHMEDALIGHORI&theme=aurora" width="100%" alt="Animated ASCII profile scan" />
-</p>
-
-<br />
-
-## Copy-ready snippets
-
-The embeds below are the exact format to paste into a GitHub profile README. Replace `AHMEDALIGHORI` with your GitHub username and choose a theme such as `aurora`, `studio`, `cyber`, or `github-dark`.
-
-<details>
-  <summary><b>3D wordmark and portrait</b></summary>
-
-```md
-![3D wordmark](https://www.gitskins.com/api/section/wordmark?username=YOUR_USERNAME&theme=aurora&label=Your%20Name)
-![ASCII portrait](https://www.gitskins.com/api/section/portrait?username=YOUR_USERNAME&theme=aurora)
-```
-</details>
-
-<details>
-  <summary><b>Contribution games</b></summary>
-
-```md
-![Jet contribution game](https://www.gitskins.com/api/section/heatmap?username=YOUR_USERNAME&theme=aurora&style=jet)
-![Snake contribution game](https://www.gitskins.com/api/section/heatmap?username=YOUR_USERNAME&theme=aurora&style=snake)
-![Eraser contribution visual](https://www.gitskins.com/api/section/heatmap?username=YOUR_USERNAME&theme=aurora&style=erased)
-![Space Shooter contribution game](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/output/space-shooter.gif)
-```
-</details>
-
-<details>
-  <summary><b>Automatic chess replay</b></summary>
-
-```md
-![Automatic chess replay](https://www.gitskins.com/api/section/chess?username=YOUR_USERNAME&theme=aurora)
-```
-</details>
-
-<details>
-  <summary><b>Core profile sections</b></summary>
-
-```md
-![Profile hero](https://www.gitskins.com/api/section/hero?username=YOUR_USERNAME&theme=aurora)
-![GitHub stats](https://www.gitskins.com/api/section/stats?username=YOUR_USERNAME&theme=aurora)
-![Language stack](https://www.gitskins.com/api/section/stack?username=YOUR_USERNAME&theme=aurora)
-![Pinned projects](https://www.gitskins.com/api/section/projects?username=YOUR_USERNAME&theme=aurora)
-```
-</details>
-
-<br />
-
-<p align="center">
-  <sub>
-    GitHub data in these visuals is fetched on request. The SVGs include reduced-motion behavior and light or dark variants where supported.<br />
-    <a href="https://www.gitskins.com/readme-generator"><b>Generate your own animated profile README with GitSkins</b></a>
-  </sub>
-</p>
