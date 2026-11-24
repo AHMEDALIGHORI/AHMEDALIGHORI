@@ -49,6 +49,13 @@
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=AHMEDALIGHORI&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="100%" alt="Pinned repositories" />
+  </picture>
+</p>
+
 ## Featured Work
 
 ### 3D, WebGL & Scroll Cinema
@@ -149,30 +156,12 @@ I'm open to **frontend internships / junior roles** (remote or Hyderabad) where 
 - **All Repositories:** [github.com/AHMEDALIGHORI?tab=repositories](https://github.com/AHMEDALIGHORI?tab=repositories)
 
 <p align="center">
-  <sub>Crafted by hand, powered by WebGL &amp; GitSkins.</sub>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=AHMEDALIGHORI&theme=aurora&mode=light&style=aura" />
+    <img src="https://www.gitskins.com/api/section/social?username=AHMEDALIGHORI&theme=aurora&mode=dark&style=aura" width="100%" alt="Social links row" />
+  </picture>
 </p>
 
-<!--
-  OPTIONAL GITSKINS PANELS — uncomment once configured in GitHub Settings:
-
-  1) Pinned Projects Card:
-     Pin 6 repos on your profile (e.g. GHORI-CITY, neon-the-next-interface,
-     LOGOFF-01-Touch-Grass, hyderabad-city, wok-wave, mr-biriyaniwala), then uncomment:
-
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=AHMEDALIGHORI&theme=aurora&mode=light" />
-      <img src="https://www.gitskins.com/api/section/projects?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="100%" alt="Pinned repositories" />
-    </picture>
-  </p>
-
-  2) Social Row:
-     Add your website & LinkedIn in GitHub Settings → Public profile → Social accounts, then uncomment:
-
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=AHMEDALIGHORI&theme=aurora&mode=light&style=aura" />
-      <img src="https://www.gitskins.com/api/section/social?username=AHMEDALIGHORI&theme=aurora&mode=dark&style=aura" width="100%" alt="Social links row" />
-    </picture>
-  </p>
--->
+<p align="center">
+  <sub>Crafted by hand, powered by WebGL &amp; GitSkins.</sub>
+</p>
