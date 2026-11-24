@@ -19,6 +19,9 @@
 </p>
 
 <p align="center">
+  <a href="https://ahmedalighori.github.io/ahmed-ali-ghori-3d-portfolio/">
+    <img src="https://img.shields.io/badge/3D%20Portfolio-Live%20Site-0ea5e9?style=for-the-badge&logo=threedotjs&logoColor=ffffff&labelColor=0d1117&color=0284c7" alt="3D Portfolio" />
+  </a>
   <a href="mailto:ahmedalighori9@gmail.com">
     <img src="https://img.shields.io/badge/Email-ahmedalighori9%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=0d1117&color=0369a1" alt="Email" />
   </a>
@@ -65,6 +68,7 @@
 
 | Project | Live Demo | Stack | What it is |
 | :--- | :--- | :--- | :--- |
+| **[3D Rooftop Portfolio](https://github.com/AHMEDALIGHORI/ahmed-ali-ghori-3d-portfolio)** | [ahmedalighori.github.io/ahmed-ali-ghori-3d-portfolio](https://ahmedalighori.github.io/ahmed-ali-ghori-3d-portfolio/) | Blender · Three.js · Vite · Web Audio | Scroll-driven night rooftop studio built in Blender (154 buildings, 0 stock assets). |
 | **[GHORI CITY](https://github.com/AHMEDALIGHORI/GHORI-CITY)** | [ghori-city.vercel.app](https://ghori-city.vercel.app) | Three.js · GSAP · Blender | Interactive 3D portfolio city — drive through six districts with a cinematic opening. |
 | **[NEON](https://github.com/AHMEDALIGHORI/neon-the-next-interface)** | [neon-the-next-interface.vercel.app](https://neon-the-next-interface.vercel.app) | React · Three.js · GLSL | Seven-chapter scroll-driven WebGL product launch film, built procedurally. |
 | **[LOGOFF-01](https://github.com/AHMEDALIGHORI/LOGOFF-01-Touch-Grass)** | [logooff-01-touch-grass.vercel.app](https://logooff-01-touch-grass.vercel.app) | Three.js · WebGL | Procedural 3D sneaker product page — zero images, zero external models. |
