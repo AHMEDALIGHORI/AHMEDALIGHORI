@@ -1,153 +1,178 @@
 <!--
-  Ahmed Ali Ghori · github.com/AHMEDALIGHORI
-  The moving panels are live GitSkins SVG embeds, generated from public GitHub data.
-  No workflow to keep running, no committed image files.
-  Optional extras (pinned-projects card, social row) are commented out at the bottom.
+  Ahmed Ali Ghori · https://github.com/AHMEDALIGHORI
+  Powered by live GitSkins SVG panels (Aurora theme, adaptive dark/light mode)
+  with custom layout, curated showcase, and zero GitHub Actions overhead.
 -->
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=AHMEDALIGHORI&theme=aurora&label=Ahmed%20Ali%20Ghori" width="100%" alt="AHMED ALI GHORI — animated 3D ASCII wordmark" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=AHMEDALIGHORI&theme=aurora&mode=light&label=Ahmed%20Ali%20Ghori" />
+    <img src="https://www.gitskins.com/api/section/wordmark?username=AHMEDALIGHORI&theme=aurora&mode=dark&label=Ahmed%20Ali%20Ghori" width="100%" alt="Ahmed Ali Ghori — animated 3D ASCII wordmark" />
+  </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=AHMEDALIGHORI&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="100%" alt="Ahmed Ali Ghori — frontend developer, Hyderabad, Sindh" />
+    <img src="https://www.gitskins.com/api/section/hero?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="100%" alt="Ahmed Ali Ghori — Frontend & Creative 3D Engineer" />
   </picture>
 </p>
 
-<h3 align="center">Frontend developer. I build interfaces that feel alive and still load fast.</h3>
+<h3 align="center">Frontend Engineer · Creative 3D / WebGL Developer · Applied AI Builder</h3>
 
 <p align="center">
-  React · Next.js · TypeScript · Tailwind · Three.js · GSAP · WebGL
-  <br />
-  Software Engineering student at Iqra University, Hyderabad, Sindh
-  <br />
-  <b>Open to frontend internships, junior roles and freelance builds.</b>
+  Building cinematic, scroll-driven web interfaces and real-time 3D experiences that stay fast on real phones.<br />
+  Software Engineering @ Iqra University · Hyderabad, Sindh, Pakistan (GMT+5)
 </p>
 
 <p align="center">
-  <a href="mailto:ahmedalighori9@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/ahmed-ali-ghori-803a0916b">LinkedIn</a> ·
-  <a href="#selected-work">Selected work</a> ·
-  <a href="https://github.com/AHMEDALIGHORI?tab=repositories">All repositories</a>
+  <a href="mailto:ahmedalighori9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahmedalighori9%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=2dd4bf&labelColor=0d1117&color=134e4a" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-ali-ghori-803a0916b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=2dd4bf&labelColor=0d1117&color=134e4a" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/923368933592">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-0d1117?style=for-the-badge&logo=whatsapp&logoColor=2dd4bf&labelColor=0d1117&color=134e4a" alt="WhatsApp" />
+  </a>
+  <a href="#featured-work">
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Freelance-2dd4bf?style=for-the-badge&labelColor=0d1117&color=0f766e" alt="Open to opportunities" />
+  </a>
 </p>
 
-<br />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=AHMEDALIGHORI&theme=aurora&mode=light&items=Frontend::fast%20interfaces%20on%20real%20phones|3D%20%26%20Motion::WebGL%20%26%20GSAP%20without%20the%20weight|Applied%20AI::voice%2C%20RAG%20%26%20spatial%20interfaces" />
+    <img src="https://www.gitskins.com/api/section/highlights?username=AHMEDALIGHORI&theme=aurora&mode=dark&items=Frontend::fast%20interfaces%20on%20real%20phones|3D%20%26%20Motion::WebGL%20%26%20GSAP%20without%20the%20weight|Applied%20AI::voice%2C%20RAG%20%26%20spatial%20interfaces" width="100%" alt="Core focus: Frontend, 3D & Motion, Applied AI" />
+  </picture>
+</p>
 
-## Selected work
+---
 
-Every project below is live, open source, and built to run on a phone.
+## Featured Work
 
-| Project | Live demo | Built with | What it is |
+### 3D, WebGL & Scroll Cinema
+
+| Project | Live Demo | Stack | What it is |
 | :--- | :--- | :--- | :--- |
-| **[Wok Wave](https://github.com/AHMEDALIGHORI/wok-wave)** | [wok-wave.vercel.app](https://wok-wave.vercel.app) | Next.js · TypeScript · Tailwind · Motion | Chinese street-food restaurant site with a scroll-driven menu. |
-| **[Mr. Biriyaniwala](https://github.com/AHMEDALIGHORI/mr-biriyaniwala)** | [mr-biriyaniwala.vercel.app](https://mr-biriyaniwala.vercel.app) | HTML · CSS · JS · GSAP · Node 22 | Restaurant site with WhatsApp order drafts and a table-request desk. |
-| **[LOGOFF-01](https://github.com/AHMEDALIGHORI/LOGOFF-01-Touch-Grass)** | [logooff-01-touch-grass.vercel.app](https://logooff-01-touch-grass.vercel.app) | Three.js · WebGL | Procedural 3D sneaker product page — zero images, zero models. |
-| **[GHORI CITY](https://github.com/AHMEDALIGHORI/GHORI-CITY)** | [ghori-city.vercel.app](https://ghori-city.vercel.app) | Three.js · GSAP · Blender | Interactive 3D portfolio city with a cinematic opening. |
-| **[NEON](https://github.com/AHMEDALIGHORI/neon-the-next-interface)** | [neon-the-next-interface.vercel.app](https://neon-the-next-interface.vercel.app) | React · Three.js · GLSL | Seven-chapter scroll film, everything procedural. |
-| **[Qitchen](https://github.com/AHMEDALIGHORI/qitchen-animated-restaurant-website)** | [qitchen-animated-restaurant-website.vercel.app](https://qitchen-animated-restaurant-website.vercel.app) | HTML · CSS · JS | Four-page responsive restaurant template with CSS motion. |
+| **[GHORI CITY](https://github.com/AHMEDALIGHORI/GHORI-CITY)** | [ghori-city.vercel.app](https://ghori-city.vercel.app) | Three.js · GSAP · Blender | Interactive 3D portfolio city — drive through six districts with a cinematic opening. |
+| **[NEON](https://github.com/AHMEDALIGHORI/neon-the-next-interface)** | [neon-the-next-interface.vercel.app](https://neon-the-next-interface.vercel.app) | React · Three.js · GLSL | Seven-chapter scroll-driven WebGL product launch film, built procedurally. |
+| **[LOGOFF-01](https://github.com/AHMEDALIGHORI/LOGOFF-01-Touch-Grass)** | [logooff-01-touch-grass.vercel.app](https://logooff-01-touch-grass.vercel.app) | Three.js · WebGL | Procedural 3D sneaker product page — zero images, zero external models. |
+| **[Hyderabad City](https://github.com/AHMEDALIGHORI/hyderabad-city)** | [Source](https://github.com/AHMEDALIGHORI/hyderabad-city) | Blender · Three.js · JS | Walkable Vice City × San Andreas–inspired 3D recreation of Hyderabad, Sindh. |
+| **[BR Buds](https://github.com/AHMEDALIGHORI/br-buds)** | [Source](https://github.com/AHMEDALIGHORI/br-buds) | Next.js · R3F · GLSL · GSAP | Luxury earbud launch film built entirely in code — zero images, zero renders. |
+| **[Astra Cosmos](https://github.com/AHMEDALIGHORI/astra-cosmos)** | [astra-cosmos.vercel.app](https://astra-cosmos.vercel.app) | Three.js · WebGL · Shaders | Scroll-driven cosmic journey with procedural planets and constellations. |
 
-## What I do
+### Commercial Storefronts & Applied AI
 
-- **Frontend engineering** — React, Next.js and TypeScript: reusable components, responsive layout, REST API integration.
-- **Motion and 3D** — scroll-driven experiences in Three.js / WebGL and GSAP that stay smooth on a mid-range phone.
-- **Business sites** — menu, ordering, WhatsApp handoff and table requests, i.e. the flow a real restaurant needs.
+| Project | Live Demo | Stack | What it is |
+| :--- | :--- | :--- | :--- |
+| **[Wok Wave](https://github.com/AHMEDALIGHORI/wok-wave)** | [wok-wave.vercel.app](https://wok-wave.vercel.app) | Next.js · TypeScript · Tailwind · Motion | Chinese restaurant storefront with scroll-driven food storytelling and menu. |
+| **[Mr. Biriyaniwala](https://github.com/AHMEDALIGHORI/mr-biriyaniwala)** | [mr-biriyaniwala.vercel.app](https://mr-biriyaniwala.vercel.app) | HTML · CSS · JS · GSAP · Node 22 | Restaurant site with customizable menu, WhatsApp order handoff & table desk. |
+| **[Mithaas & Co.](https://github.com/AHMEDALIGHORI/mithaas-co)** | [ahmedalighori.github.io/mithaas-co](https://ahmedalighori.github.io/mithaas-co/) | HTML · CSS · JS · GSAP · Lenis | Luxury mithai storefront with a scroll-opening gold gift box and zero build step. |
+| **[BR-ICE](https://github.com/AHMEDALIGHORI/BR-ICE)** | [br-ice.vercel.app](https://br-ice.vercel.app) | Three.js · Scroll Motion | Animated ice cream storefront featuring an interactive 3D cone builder. |
+| **[MUDRA](https://github.com/AHMEDALIGHORI/mudra-house-of-thali)** | [mudra-house-of-thali.vercel.app](https://mudra-house-of-thali.vercel.app) | Editorial Web · Motion | Interactive editorial dining experience — *House of the Thali*. |
+| **[Nexus Spatial AI](https://github.com/AHMEDALIGHORI/nexus-spatial-ai)** | [Source](https://github.com/AHMEDALIGHORI/nexus-spatial-ai) | 3D Spatial UI · Voice · RAG | Embodied AI assistant with a 3D interface, multilingual voice & local docs. |
 
-I care about the boring parts too: fast first paint, readable type on a 375 px screen, no layout jumps, no broken forms.
+---
 
-## What I'm looking for
+## What I Build
 
-A frontend internship (remote or Hyderabad) where I can own real UI work, or a freelance build for a restaurant, brand or small business. If you have either, my inbox is open.
+- **Frontend Engineering** — React, Next.js, and TypeScript with clean component architecture, responsive layouts, fast first paint, and zero layout shift on 375 px screens.
+- **Real-Time 3D & Motion** — Three.js, React Three Fiber, custom GLSL shaders, Blender scenes, and GSAP ScrollTrigger tuned for mid-range mobile devices.
+- **Conversion-Ready Business Sites** — Menus, interactive product showcases, WhatsApp ordering handoffs, and booking flows built for real restaurants and brands.
+- **Applied AI & Tooling** — Voice-first assistants, RAG pipelines, and spatial AI interfaces.
 
-## The profile
+---
+
+## Live Telemetry
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=AHMEDALIGHORI&theme=aurora&items=Frontend::fast%20interfaces%20on%20real%20phones|Product::sites%20people%20can%20order%20from|3D::cinematic%20without%20the%20weight" width="100%" alt="Three things I focus on: fast frontend, usable product sites, lightweight 3D" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=AHMEDALIGHORI&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="100%" alt="Live GitHub stats" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/portrait?username=AHMEDALIGHORI&theme=aurora" width="100%" alt="Animated ASCII portrait of Ahmed Ali Ghori" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=AHMEDALIGHORI&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="100%" alt="Language stack weighted by repositories" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=AHMEDALIGHORI&theme=aurora" width="100%" alt="Live GitHub stats: stars, contributions, repositories, followers" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=aurora&mode=light&style=snake" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=aurora&mode=dark&style=snake" width="100%" alt="Contribution heatmap — animated snake trail" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=AHMEDALIGHORI&theme=aurora" width="100%" alt="Language stack weighted by repositories" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=AHMEDALIGHORI&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/system-scan?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="100%" alt="Terminal-style system scan" />
+  </picture>
 </p>
 
-## Contribution
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=aurora&style=snake" width="100%" alt="Contribution heatmap as an animated snake trail" />
+<details>
+  <summary><b>More visuals & off the clock</b> (ASCII portrait · aerial heatmap · auto chess)</summary>
   <br />
-  <sub>snake trail</sub>
-</p>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=AHMEDALIGHORI&theme=aurora&mode=light" />
+      <img src="https://www.gitskins.com/api/section/portrait?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="100%" alt="Animated ASCII portrait of Ahmed Ali Ghori" />
+    </picture>
+  </p>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=aurora&mode=light&style=jet" />
+      <img src="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=aurora&mode=dark&style=jet" width="100%" alt="Contribution heatmap — aerial jet view" />
+    </picture>
+  </p>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=AHMEDALIGHORI&theme=aurora&mode=light" />
+      <img src="https://www.gitskins.com/api/section/chess?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="420" alt="Animated automatic chess replay" />
+    </picture>
+  </p>
+</details>
+
+---
+
+## Let's Work Together
+
+I'm open to **frontend internships / junior roles** (remote or Hyderabad) where I can own real UI & interactive work, as well as **freelance builds** for restaurants, brands, and startups.
+
+- **Email:** [ahmedalighori9@gmail.com](mailto:ahmedalighori9@gmail.com)
+- **WhatsApp:** [+92 336 8933592](https://wa.me/923368933592)
+- **LinkedIn:** [linkedin.com/in/ahmed-ali-ghori-803a0916b](https://www.linkedin.com/in/ahmed-ali-ghori-803a0916b)
+- **All Repositories:** [github.com/AHMEDALIGHORI?tab=repositories](https://github.com/AHMEDALIGHORI?tab=repositories)
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=aurora&style=jet" width="100%" alt="Contribution heatmap as an animated jet" />
-  <br />
-  <sub>the same year, from above</sub>
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=aurora&style=erased" width="100%" alt="Contribution heatmap wiped away cell by cell" />
-  <br />
-  <sub>erased, cell by cell</sub>
-</p>
-
-## Off the clock
-
-Chess, because a profile should be fun to scroll.
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/chess?username=AHMEDALIGHORI&theme=aurora" width="420" alt="Animated automatic chess replay" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/system-scan?username=AHMEDALIGHORI&theme=aurora" width="100%" alt="Terminal-style system scan: role, status, languages, repositories, contributions, stars, followers" />
-</p>
-
-## Contact
-
-- **Email** — [ahmedalighori9@gmail.com](mailto:ahmedalighori9@gmail.com)
-- **WhatsApp** — [+92 336 8933592](https://wa.me/923368933592)
-- **LinkedIn** — [in/ahmed-ali-ghori-803a0916b](https://www.linkedin.com/in/ahmed-ali-ghori-803a0916b)
-- **Location** — Hyderabad, Sindh, Pakistan (GMT+5) · happy to work remotely
-
-If you want to see how I build, the [commit history](https://github.com/AHMEDALIGHORI?tab=repositories) is the honest version: many projects, shipped end to end.
-
-<br />
-
-<p align="center">
-  <sub>Built by hand, with a little WebGL.</sub>
+  <sub>Crafted by hand, powered by WebGL &amp; GitSkins.</sub>
 </p>
 
 <!--
-  OPTIONAL SECTIONS — turn on when the data behind them is ready.
+  OPTIONAL GITSKINS PANELS — uncomment once configured in GitHub Settings:
 
-  1) Pinned-projects card (auto-updates from your pinned repos).
-     First pin six repos: profile → "Customize your pins" →
-     Wok Wave, Mr. Biriyaniwala, LOGOFF-01, GHORI CITY, NEON, Qitchen.
-     Then delete the comment markers around this line:
-
-  <p align="center">
-    <img src="https://www.gitskins.com/api/section/projects?username=AHMEDALIGHORI&theme=aurora" width="100%" alt="Pinned repositories as animated project cards" />
-  </p>
-
-  2) Social row. Add your website + LinkedIn under GitHub Settings → Public profile
-     → Social accounts, then uncomment:
+  1) Pinned Projects Card:
+     Pin 6 repos on your profile (e.g. GHORI-CITY, neon-the-next-interface,
+     LOGOFF-01-Touch-Grass, hyderabad-city, wok-wave, mr-biriyaniwala), then uncomment:
 
   <p align="center">
-    <img src="https://www.gitskins.com/api/section/social?username=AHMEDALIGHORI&theme=aurora&style=aura" width="100%" alt="Social links row" />
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=AHMEDALIGHORI&theme=aurora&mode=light" />
+      <img src="https://www.gitskins.com/api/section/projects?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="100%" alt="Pinned repositories" />
+    </picture>
   </p>
 
-  3) Portfolio link. https://ahmed-ali-portfolio-amber.vercel.app currently serves the
-     server bundle instead of the site. Once it is redeployed (Vite build output =
-     dist/public), put it back in the links line at the top.
+  2) Social Row:
+     Add your website & LinkedIn in GitHub Settings → Public profile → Social accounts, then uncomment:
 
-  4) The old Space Shooter panel needs a daily GitHub Actions run to publish its GIF.
-     Actions cannot start on this account (billing lock), so it stays removed.
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=AHMEDALIGHORI&theme=aurora&mode=light&style=aura" />
+      <img src="https://www.gitskins.com/api/section/social?username=AHMEDALIGHORI&theme=aurora&mode=dark&style=aura" width="100%" alt="Social links row" />
+    </picture>
+  </p>
 -->
