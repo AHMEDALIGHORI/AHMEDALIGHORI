@@ -1,20 +1,13 @@
 <!--
   Ahmed Ali Ghori · https://github.com/AHMEDALIGHORI
-  Powered by live GitSkins SVG panels (Aurora theme, adaptive dark/light mode)
-  with custom layout, curated showcase, and zero GitHub Actions overhead.
+  Powered by 100% free live GitSkins SVG panels (Neon theme, adaptive dark/light mode)
+  — zero Pro preview watermarks, zero GitHub Actions overhead.
 -->
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=AHMEDALIGHORI&theme=aurora&mode=light&label=Ahmed%20Ali%20Ghori" />
-    <img src="https://www.gitskins.com/api/section/wordmark?username=AHMEDALIGHORI&theme=aurora&mode=dark&label=Ahmed%20Ali%20Ghori" width="100%" alt="Ahmed Ali Ghori — animated 3D ASCII wordmark" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=AHMEDALIGHORI&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="100%" alt="Ahmed Ali Ghori — Frontend & Creative 3D Engineer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=AHMEDALIGHORI&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=AHMEDALIGHORI&theme=neon&mode=dark" width="100%" alt="Ahmed Ali Ghori — Frontend & Creative 3D Engineer" />
   </picture>
 </p>
 
@@ -27,32 +20,42 @@
 
 <p align="center">
   <a href="mailto:ahmedalighori9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ahmedalighori9%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=2dd4bf&labelColor=0d1117&color=134e4a" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-ahmedalighori9%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=0d1117&color=0369a1" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/ahmed-ali-ghori-803a0916b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=2dd4bf&labelColor=0d1117&color=134e4a" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0d1117&color=0369a1" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/923368933592">
-    <img src="https://img.shields.io/badge/WhatsApp-Message-0d1117?style=for-the-badge&logo=whatsapp&logoColor=2dd4bf&labelColor=0d1117&color=134e4a" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-Message-0d1117?style=for-the-badge&logo=whatsapp&logoColor=38bdf8&labelColor=0d1117&color=0369a1" alt="WhatsApp" />
   </a>
   <a href="#featured-work">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Freelance-2dd4bf?style=for-the-badge&labelColor=0d1117&color=0f766e" alt="Open to opportunities" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Freelance-0ea5e9?style=for-the-badge&labelColor=0d1117&color=0284c7" alt="Open to opportunities" />
   </a>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=AHMEDALIGHORI&theme=aurora&mode=light&items=Frontend::fast%20interfaces%20on%20real%20phones|3D%20%26%20Motion::WebGL%20%26%20GSAP%20without%20the%20weight|Applied%20AI::voice%2C%20RAG%20%26%20spatial%20interfaces" />
-    <img src="https://www.gitskins.com/api/section/highlights?username=AHMEDALIGHORI&theme=aurora&mode=dark&items=Frontend::fast%20interfaces%20on%20real%20phones|3D%20%26%20Motion::WebGL%20%26%20GSAP%20without%20the%20weight|Applied%20AI::voice%2C%20RAG%20%26%20spatial%20interfaces" width="100%" alt="Core focus: Frontend, 3D & Motion, Applied AI" />
-  </picture>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>Frontend Engineering</b><br />
+      <sub>Fast React, Next.js &amp; TypeScript interfaces built for real mobile screens</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>3D &amp; Motion</b><br />
+      <sub>Three.js, WebGL, GLSL &amp; GSAP scroll cinema without the weight</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>Applied AI &amp; Products</b><br />
+      <sub>Voice assistants, RAG pipelines &amp; conversion-ready storefronts</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=AHMEDALIGHORI&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="100%" alt="Pinned repositories" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=AHMEDALIGHORI&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=AHMEDALIGHORI&theme=neon&mode=dark" width="100%" alt="Pinned repositories" />
   </picture>
 </p>
 
@@ -95,51 +98,32 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=AHMEDALIGHORI&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="100%" alt="Live GitHub stats" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=AHMEDALIGHORI&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=AHMEDALIGHORI&theme=neon&mode=dark" width="100%" alt="Live GitHub stats" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=AHMEDALIGHORI&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="100%" alt="Language stack weighted by repositories" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=AHMEDALIGHORI&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=AHMEDALIGHORI&theme=neon&mode=dark" width="100%" alt="Language stack weighted by repositories" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=aurora&mode=light&style=snake" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=aurora&mode=dark&style=snake" width="100%" alt="Contribution heatmap — animated snake trail" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=AHMEDALIGHORI&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/system-scan?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="100%" alt="Terminal-style system scan" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=neon&mode=dark" width="100%" alt="Contribution heatmap" />
   </picture>
 </p>
 
 <details>
-  <summary><b>More visuals & off the clock</b> (ASCII portrait · aerial heatmap · auto chess)</summary>
+  <summary><b>Off the clock</b> — animated auto-chess replay</summary>
   <br />
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=AHMEDALIGHORI&theme=aurora&mode=light" />
-      <img src="https://www.gitskins.com/api/section/portrait?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="100%" alt="Animated ASCII portrait of Ahmed Ali Ghori" />
-    </picture>
-  </p>
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=aurora&mode=light&style=jet" />
-      <img src="https://www.gitskins.com/api/section/heatmap?username=AHMEDALIGHORI&theme=aurora&mode=dark&style=jet" width="100%" alt="Contribution heatmap — aerial jet view" />
-    </picture>
-  </p>
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=AHMEDALIGHORI&theme=aurora&mode=light" />
-      <img src="https://www.gitskins.com/api/section/chess?username=AHMEDALIGHORI&theme=aurora&mode=dark" width="420" alt="Animated automatic chess replay" />
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=AHMEDALIGHORI&theme=neon&mode=light" />
+      <img src="https://www.gitskins.com/api/section/chess?username=AHMEDALIGHORI&theme=neon&mode=dark" width="420" alt="Animated automatic chess replay" />
     </picture>
   </p>
 </details>
@@ -157,8 +141,8 @@ I'm open to **frontend internships / junior roles** (remote or Hyderabad) where 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=AHMEDALIGHORI&theme=aurora&mode=light&style=aura" />
-    <img src="https://www.gitskins.com/api/section/social?username=AHMEDALIGHORI&theme=aurora&mode=dark&style=aura" width="100%" alt="Social links row" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=AHMEDALIGHORI&theme=neon&mode=light&style=aura" />
+    <img src="https://www.gitskins.com/api/section/social?username=AHMEDALIGHORI&theme=neon&mode=dark&style=aura" width="100%" alt="Social links row" />
   </picture>
 </p>
 
